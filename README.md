@@ -69,3 +69,12 @@ I wanted my submission to feel extremely premium and stand out. I styled the int
   * **Cover_letter_about_Project.txt** - Hackathon project submission cover letter.
   * **writeups/** - PDF/TXT blueprint writeups and documentation reviews.
   * **demo/** - Demo video guides, pointers, and links.
+
+## stayingahead.ai Resources Integration
+This project integrates the latest developer guides, cheat sheets, and prompting frameworks from [StayingAhead.ai](https://stayingahead.ai/resources), including:
+* **Setup Guide: Claude Code CLI:** A complete walkthrough of setting up and routing Claude Code CLI to custom backend models.
+* **Tokenmaxxing (Cost Optimization):** Techniques for prompt caching, token reduction, and prefix caching structures to slash API monthly expenses by up to 90%.
+* **Loop Engineering:** Guidelines for building reflexive agentic loops, execution sandboxes, and validation guardrails.
+* **Image Prompting (Seedream vs GPT):** Frameworks for using HEX codes, quotation boundaries, and JSON schemas for visual layout precision.
+
+These guides are built directly into the **AI Lexicon & Tips** section of the terminal workspace app.
