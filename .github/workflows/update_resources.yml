@@ -1,0 +1,33 @@
+name: Auto-Sync AI Resources
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch:      # Allows manual trigger in the GitHub Actions UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Sync Script
+        run: python scripts/sync_resources.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html docs/resources_log.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update AI resources and developer playbooks [skip ci]"
+            git push origin main
+          fi
