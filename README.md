@@ -2,8 +2,6 @@
 
 Advanced Intelligence Ecosystem Operating System
 
-# Be10X AI Generalist Hackathon Project Write-up
-
 ## 1. Project Overview & Meta Information
 * **Project Name:** AI Pulse Hub
 * **Tagline:** My Unified Workspace & Real-Time Onboarding Suite for AI Freelancers and Developers.
