@@ -1175,7 +1175,7 @@
         }
 
         /* =====================================================
-           BE10X HOURS-SAVED HERO WIDGET — light/dark theme tuning
+           AI PULSE HUB HOURS-SAVED WIDGET — light/dark theme tuning
            ===================================================== */
         /* Light mode: brighten the hero gradient & make stat boxes visible */
         .theme-light #hoursSavedHero {
@@ -1214,8 +1214,8 @@
             75% { transform: scale(1.08) rotate(1deg); }
         }
         .hs-celebrate { animation: hsCelebrate 0.6s ease-in-out; }
-        /* Inline BE10X brand text inside subtitle */
-        .be10x-inline-brand {
+        /* Inline AI Pulse Hub brand text inside subtitle */
+        .aipulse-inline-brand {
             background: linear-gradient(90deg, #d4af37, #f59e0b, #f43f5e);
             -webkit-background-clip: text;
             background-clip: text;
@@ -1224,10 +1224,10 @@
         }
 
         /* =====================================================
-           BE10X CREDIT MARQUEE — Bottom Footer Ribbon
+           AI Pulse Hub CREDIT MARQUEE — Bottom Footer Ribbon
            Decent legible size, smooth scroll, theme-aware
            ===================================================== */
-        .be10x-marquee {
+        .aipulse-marquee {
             position: fixed;
             bottom: 0;
             left: 0;
@@ -1242,48 +1242,48 @@
             letter-spacing: 0.02em;
             white-space: nowrap;
         }
-        .theme-dark .be10x-marquee {
+        .theme-dark .aipulse-marquee {
             background: linear-gradient(90deg, rgba(8, 6, 14, 0.92), rgba(20, 12, 30, 0.92), rgba(8, 6, 14, 0.92));
             border-top-color: rgba(212, 175, 55, 0.35);
             color: #fde68a;
             box-shadow: 0 -8px 28px rgba(212, 175, 55, 0.08), 0 -1px 0 rgba(255, 255, 255, 0.03) inset;
         }
-        .theme-light .be10x-marquee {
+        .theme-light .aipulse-marquee {
             background: linear-gradient(90deg, #fffaf0, #fef3c7, #fffaf0);
             border-top-color: rgba(197, 160, 89, 0.45);
             color: #78350f;
             box-shadow: 0 -8px 28px rgba(197, 160, 89, 0.12), 0 -1px 0 rgba(0, 0, 0, 0.03) inset;
         }
-        .be10x-marquee-track {
+        .aipulse-marquee-track {
             display: inline-flex;
             gap: 64px;
             padding-left: 100%;
-            animation: be10xScroll 65s linear infinite;
+            animation: aipulseScroll 65s linear infinite;
             will-change: transform;
         }
-        .be10x-marquee:hover .be10x-marquee-track {
+        .aipulse-marquee:hover .aipulse-marquee-track {
             animation-play-state: paused;
         }
-        @keyframes be10xScroll {
+        @keyframes aipulseScroll {
             from { transform: translateX(0); }
             to { transform: translateX(-100%); }
         }
-        .be10x-marquee-item {
+        .aipulse-marquee-item {
             display: inline-flex;
             align-items: center;
             gap: 10px;
         }
-        .be10x-marquee .be10x-heart {
+        .aipulse-marquee .aipulse-heart {
             color: #f43f5e;
-            animation: be10xPulse 1.6s ease-in-out infinite;
+            animation: aipulsePulse 1.6s ease-in-out infinite;
             display: inline-block;
             font-size: 14px;
         }
-        @keyframes be10xPulse {
+        @keyframes aipulsePulse {
             0%, 100% { transform: scale(1); }
             50% { transform: scale(1.2); }
         }
-        .be10x-marquee .be10x-brand {
+        .aipulse-marquee .aipulse-brand {
             font-weight: 800;
             letter-spacing: 0.08em;
             background: linear-gradient(90deg, #d4af37, #f59e0b, #f43f5e);
@@ -1293,7 +1293,7 @@
             text-transform: uppercase;
             padding: 0 2px;
         }
-        .be10x-marquee .be10x-sep {
+        .aipulse-marquee .aipulse-sep {
             opacity: 0.5;
             font-size: 10px;
         }
@@ -1301,8 +1301,8 @@
         body { padding-bottom: 48px; }
         /* On small screens, slightly reduce marquee height */
         @media (max-width: 640px) {
-            .be10x-marquee { font-size: 12px; padding: 8px 0; }
-            .be10x-marquee-track { gap: 40px; animation-duration: 50s; }
+            .aipulse-marquee { font-size: 12px; padding: 8px 0; }
+            .aipulse-marquee-track { gap: 40px; animation-duration: 50s; }
             body { padding-bottom: 42px; }
         }
     </style>
@@ -1415,7 +1415,7 @@
                 <div id="dashboardIdentityBar" class="grid grid-cols-1 md:grid-cols-3 gap-4 cyber-card p-5 rounded-3xl shadow-sm">
                     </div>
 
-                <!-- ===== BE10X HOURS-SAVED HERO WIDGET ===== -->
+                <!-- ===== AI PULSE HUB HOURS-SAVED WIDGET ===== -->
                 <div id="hoursSavedHero" class="relative overflow-hidden rounded-3xl border border-amber-500/30 p-6 md:p-8 active-glow"
                      style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.10) 0%, rgba(244, 63, 94, 0.08) 50%, rgba(124, 58, 237, 0.10) 100%);">
                     <div class="absolute -right-12 -top-12 w-64 h-64 rounded-full opacity-20 blur-3xl pointer-events-none" style="background: radial-gradient(circle, rgba(212, 175, 55, 0.6), transparent 70%);"></div>
@@ -1427,7 +1427,7 @@
                             <div class="flex items-center gap-2.5">
                                 <span class="bg-amber-500/15 text-amber-400 font-mono text-[10px] font-bold tracking-[0.18em] uppercase px-2.5 py-1 rounded-full border border-amber-500/30">
                                     <span class="inline-block w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse mr-1"></span>
-                                    BE10X HOURS → SECONDS FRAMEWORK
+                                    AI PULSE HUB HOURS → SECONDS FRAMEWORK
                                 </span>
                             </div>
                             <div class="flex items-baseline gap-3">
@@ -1436,7 +1436,7 @@
                                 <span class="brand-font text-2xl md:text-3xl font-bold text-amber-400">hours saved</span>
                             </div>
                             <p id="hoursSavedSubtitle" class="text-sm md:text-base font-medium" style="color: rgba(245, 158, 11, 0.85);">
-                                Start exploring — every action you take here proves the <span class="font-bold be10x-inline-brand">BE10X</span> "hours → seconds" thesis.
+                                Start exploring — every action you take here proves the <span class="font-bold aipulse-inline-brand">AI Pulse Hub</span> "hours → seconds" thesis.
                             </p>
                         </div>
 
@@ -1475,7 +1475,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- ===== END BE10X HOURS-SAVED HERO WIDGET ===== -->
+                <!-- ===== END AI PULSE HUB HOURS-SAVED WIDGET ===== -->
 
                 <div class="bg-gradient-to-br from-slate-950 via-[#0a0815] to-[#120b24] border border-amber-500/20 rounded-3xl p-6 md:p-8 relative overflow-hidden active-glow">
                     <div class="relative z-10 max-w-2xl space-y-3">
@@ -3339,7 +3339,7 @@ _Offline mode — connected to site knowledge base. Add a BYOK key in ⚙ Settin
                 const cats = [...new Set(TOOL_DATA.map(t => t.category))];
                 return `🧠 **AI Pulse Hub — Knowledge Base Overview**
 
-This hub is your all-in-one AI ecosystem navigator powered by the **BE10X "Hours → Seconds"** framework.
+This hub is your all-in-one AI ecosystem navigator powered by the **AI Pulse Hub "Hours → Seconds"** framework.
 
 **What's inside:**
 • **${TOOL_DATA.length} AI Tools** across ${cats.length} categories: ${cats.join(', ')}
@@ -3857,7 +3857,7 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
             refreshWorkspaceDataDisplays();
             switchTab('dashboard');
             // Reset hours to 0 for guest — guests never inherit previous totals
-            window.be10xHoursSaved?.onAuthChange('guest', 'guest');
+            window.aipulseHoursSaved?.onAuthChange('guest', 'guest');
         }
 
         function launchAuthModalPopup(mode) {
@@ -3928,7 +3928,7 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
                 refreshWorkspaceDataDisplays();
                 switchTab('dashboard');
                 // Load this user's personal hours-saved history
-                window.be10xHoursSaved?.onAuthChange(username, activeSessionUser.role);
+                window.aipulseHoursSaved?.onAuthChange(username, activeSessionUser.role);
             }
         }
 
@@ -3940,7 +3940,7 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
             refreshWorkspaceDataDisplays();
             launchAuthModalPopup('login');
             // Revert hours counter to 0 for guest session
-            window.be10xHoursSaved?.onAuthChange('guest', 'guest');
+            window.aipulseHoursSaved?.onAuthChange('guest', 'guest');
         }
 
         function switchTab(tabId) {
@@ -5945,21 +5945,21 @@ Answer using this site data first. Format responses with bullet points, bold too
     });
 </script>
 
-    <!-- ===== BE10X CREDIT MARQUEE - Bottom Footer Ribbon ===== -->
-    <div class="be10x-marquee" role="contentinfo" aria-label="Credit ribbon">
-        <div class="be10x-marquee-track" id="be10xMarqueeTrack">
+    <!-- ===== AI Pulse Hub CREDIT MARQUEE - Bottom Footer Ribbon ===== -->
+    <div class="aipulse-marquee" role="contentinfo" aria-label="Credit ribbon">
+        <div class="aipulse-marquee-track" id="aipulseMarqueeTrack">
             <!-- Items are injected by JS; duplicated for seamless loop -->
         </div>
     </div>
 
     <script>
         // ============================================================
-        // BE10X HOURS-SAVED ENGINE — Live counter demonstrating the
+        // AI Pulse Hub HOURS-SAVED ENGINE — Live counter demonstrating the
         // "Hours → Seconds" thesis. Tracks user actions in localStorage
         // and updates the dashboard hero widget in real time.
         // ============================================================
-        (function be10xHoursSavedEngine() {
-            const STORAGE_KEY_PREFIX = 'be10x_hours_saved_v1';
+        (function aipulseHoursSavedEngine() {
+            const STORAGE_KEY_PREFIX = 'aipulse_hours_saved_v1';
             // Per-user storage: guests use sessionStorage (resets to 0 each session),
             // registered users use localStorage keyed by username.
             let _currentUserKey = 'guest';
@@ -6101,15 +6101,15 @@ Answer using this site data first. Format responses with bullet points, bold too
 
                 if (subEl) {
                     if (state.hours < 0.5) {
-                        subEl.innerHTML = `Start exploring — every action you take here proves the <span class="be10x-inline-brand font-bold">BE10X</span> "hours → seconds" thesis.`;
+                        subEl.innerHTML = `Start exploring — every action you take here proves the <span class="aipulse-inline-brand font-bold">AI Pulse Hub</span> "hours → seconds" thesis.`;
                     } else if (state.hours < 2) {
-                        subEl.innerHTML = `Nice start! You've already saved <strong>${state.hours.toFixed(1)} hours</strong> of manual research. <span class="be10x-inline-brand font-bold">BE10X</span> methodology in action.`;
+                        subEl.innerHTML = `Nice start! You've already saved <strong>${state.hours.toFixed(1)} hours</strong> of manual research. <span class="aipulse-inline-brand font-bold">AI Pulse Hub</span> methodology in action.`;
                     } else if (state.hours < 8) {
-                        subEl.innerHTML = `Solid progress — <strong>${state.hours.toFixed(1)} hours</strong> reclaimed for higher-leverage work. Keep compounding with <span class="be10x-inline-brand font-bold">BE10X</span> playbooks.`;
+                        subEl.innerHTML = `Solid progress — <strong>${state.hours.toFixed(1)} hours</strong> reclaimed for higher-leverage work. Keep compounding with <span class="aipulse-inline-brand font-bold">AI Pulse Hub</span> playbooks.`;
                     } else if (state.hours < 40) {
-                        subEl.innerHTML = `<strong>${state.hours.toFixed(1)} hours saved</strong> — that's serious workweek leverage. <span class="be10x-inline-brand font-bold">BE10X</span> graduates think exactly like this.`;
+                        subEl.innerHTML = `<strong>${state.hours.toFixed(1)} hours saved</strong> — that's serious workweek leverage. <span class="aipulse-inline-brand font-bold">AI Pulse Hub</span> graduates think exactly like this.`;
                     } else {
-                        subEl.innerHTML = `<strong>${state.hours.toFixed(1)} hours saved</strong> — you're operating at <span class="be10x-inline-brand font-bold">BE10X</span> mastery tier. The compounding is real.`;
+                        subEl.innerHTML = `<strong>${state.hours.toFixed(1)} hours saved</strong> — you're operating at <span class="aipulse-inline-brand font-bold">AI Pulse Hub</span> mastery tier. The compounding is real.`;
                     }
                 }
 
@@ -6151,7 +6151,7 @@ Answer using this site data first. Format responses with bullet points, bold too
                     return;
                 }
                 // External tool open buttons
-                if (text.includes('open site') || (target.tagName === 'A' && target.target === '_blank' && !target.closest('.be10x-marquee'))) {
+                if (text.includes('open site') || (target.tagName === 'A' && target.target === '_blank' && !target.closest('.aipulse-marquee'))) {
                     addAction('toolOpen');
                     return;
                 }
@@ -6195,7 +6195,7 @@ Answer using this site data first. Format responses with bullet points, bold too
             }
 
             // Expose for diagnostics & debugging (optional)
-            window.be10xHoursSaved = {
+            window.aipulseHoursSaved = {
                 get state() { return state; },
                 render, addAction,
                 reset: () => {
@@ -6229,23 +6229,23 @@ Answer using this site data first. Format responses with bullet points, bold too
     </script>
 
     <script>
-        // Render BE10x credit marquee with multiple message variants for richness
-        (function renderBe10xMarquee() {
-            const track = document.getElementById('be10xMarqueeTrack');
+        // Render aipulse credit marquee with multiple message variants for richness
+        (function renderaipulseMarquee() {
+            const track = document.getElementById('aipulseMarqueeTrack');
             if (!track) return;
 
             const messages = [
-                `<span class="be10x-heart">♥</span> Crafted with gratitude — every learning here is powered by the brilliant <span class="be10x-brand">BE10X</span> team`,
-                `<span class="be10x-brand">BE10X</span> AI Generalist Hackathon — turning hours of work into seconds with AI`,
-                `Special thanks to the <span class="be10x-brand">BE10X</span> mentors for the practical, no-nonsense AI playbooks`,
-                `Built on the <span class="be10x-brand">BE10X</span> curriculum: Problem framing • AI leverage • Practical usefulness • Execution`,
-                `<span class="be10x-heart">♥</span> Knowledge shared, futures built — courtesy of <span class="be10x-brand">BE10X</span>`,
-                `Catalog of 126 AI tools curated using <span class="be10x-brand">BE10X</span> "Hours → Seconds" framework`
+                `<span class="aipulse-heart">♥</span> Crafted with gratitude — every learning here is powered by the brilliant Staying Ahead team`,
+                `AI Pulse Hub Ecosystem — turning hours of work into seconds with AI`,
+                `Special thanks to the Staying Ahead mentors for the practical, no-nonsense AI playbooks`,
+                `Built on the AI Pulse Hub methodology: Problem framing • AI leverage • Practical usefulness • Execution`,
+                `<span class="aipulse-heart">♥</span> Knowledge shared, futures built — courtesy of AI Pulse Hub`,
+                `Catalog of 126 AI tools curated using AI Pulse Hub "Hours → Seconds" framework`
             ];
 
-            const sep = '<span class="be10x-sep">◆</span>';
+            const sep = '<span class="aipulse-sep">◆</span>';
             // Build a single sequence
-            const sequence = messages.map(m => `<span class="be10x-marquee-item">${m}</span>`).join(sep);
+            const sequence = messages.map(m => `<span class="aipulse-marquee-item">${m}</span>`).join(sep);
             // Duplicate the sequence to allow a perfect seamless scroll loop
             track.innerHTML = sequence + sep + sequence;
         })();
@@ -6253,13 +6253,13 @@ Answer using this site data first. Format responses with bullet points, bold too
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a1adb5371fb73ef6',t:'MTc4NDAwMjU0Mw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"7f7b0fd8732c4326aae4b9d58d5c514a","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
-ledge shared, futures built — courtesy of <span class="be10x-brand">BE10X</span>`,
-                `Catalog of 126 AI tools curated using <span class="be10x-brand">BE10X</span> "Hours → Seconds" framework`
+ledge shared, futures built — courtesy of <span class="aipulse-brand">AI Pulse Hub</span>`,
+                `Catalog of 126 AI tools curated using AI Pulse Hub "Hours → Seconds" framework`
             ];
 
-            const sep = '<span class="be10x-sep">◆</span>';
+            const sep = '<span class="aipulse-sep">◆</span>';
             // Build a single sequence
-            const sequence = messages.map(m => `<span class="be10x-marquee-item">${m}</span>`).join(sep);
+            const sequence = messages.map(m => `<span class="aipulse-marquee-item">${m}</span>`).join(sep);
             // Duplicate the sequence to allow a perfect seamless scroll loop
             track.innerHTML = sequence + sep + sequence;
         })();
