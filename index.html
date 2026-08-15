@@ -24,6 +24,7 @@
             -moz-osx-font-smoothing: grayscale; 
             text-rendering: optimizeLegibility;
             letter-spacing: -0.01em;
+            overflow-x: hidden;
         }
         
         /* Dynamic font weight based on theme — using valid CSS values (multiples of 100) */
@@ -4001,13 +4002,13 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
             
             if (content.classList.contains('hidden')) {
                 content.classList.remove('hidden');
-                content.classList.add('block', 'flex', 'flex-col');
+                content.classList.add('flex', 'flex-col');
                 if (toggleBtn) {
                     toggleBtn.innerHTML = '<i data-lucide="x" class="w-4 h-4"></i>';
                 }
             } else {
                 content.classList.add('hidden');
-                content.classList.remove('block', 'flex', 'flex-col');
+                content.classList.remove('flex', 'flex-col');
                 if (toggleBtn) {
                     toggleBtn.innerHTML = '<i data-lucide="menu" class="w-4 h-4"></i>';
                 }
