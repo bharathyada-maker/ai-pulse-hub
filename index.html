@@ -3789,7 +3789,6 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
             updateHwSliders();
             runHardwareCalculation();
 
-            console.log("🔒 [Dev Mode] AI Pulse Hub bypass keys registered:\n  Username: admin\n  Password: admin123\n  Passphrase: pulse2026");
 
             if (isFirstTime) {
                 launchAuthModalPopup('login');
@@ -3962,6 +3961,10 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
 
             document.querySelectorAll('.nav-btn').forEach(btn => {
                 btn.className = "nav-btn w-full flex items-center gap-3 px-3 py-2.5 rounded-xl font-semibold text-sm text-stone-700 hover:bg-stone-100 hover:text-stone-950 dark:text-slate-300 dark:hover:bg-slate-900/50 dark:hover:text-white border border-transparent text-left cursor-pointer transition-all";
+                if (btn.id === 'navAdminBtn' && (!activeSessionUser || activeSessionUser.role !== 'admin')) {
+                    btn.classList.add('hidden');
+                    btn.classList.remove('flex');
+                }
             });
             const activeBtn = document.querySelector(`.nav-btn[data-tab="${tabId}"]`);
             if (activeBtn) {
