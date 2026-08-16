@@ -2813,7 +2813,7 @@
     <div id="authModalOverlay" class="fixed inset-0 bg-slate-950/60 backdrop-blur-xs z-50 hidden items-center justify-center p-4 animate-fade-in">
         <div class="bg-slate-900 border border-slate-800 rounded-3xl w-full max-w-sm p-6 shadow-xl space-y-4 text-slate-200">
             <div class="flex justify-between items-center">
-                <h3 id="modalFlowTitle" onclick="triggerDevCredentialsInfo()" class="font-bold text-white text-lg tracking-tight cursor-default select-none" title="Click 5 times for Developer Info">Identity Verification</h3>
+                <h3 id="modalFlowTitle" class="font-bold text-white text-lg tracking-tight cursor-default select-none">Identity Verification</h3>
                 <button onclick="closeAuthModal()" class="text-slate-500 hover:text-white cursor-pointer"><i data-lucide="x" class="w-5 h-5"></i></button>
             </div>
             
@@ -3831,14 +3831,7 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
             }
         }
 
-        let devClickCount = 0;
-        function triggerDevCredentialsInfo() {
-            devClickCount++;
-            if (devClickCount >= 5) {
-                alert("🔒 Developer Bypass Info:\nAdmin Username: admin\nPassword: admin123\nAdmin Code: pulse2026");
-                devClickCount = 0;
-            }
-        }
+
 
         function handleUsernameInputChange() {
             const username = document.getElementById('authUsernameInput').value.trim().toLowerCase();
