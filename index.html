@@ -1347,14 +1347,14 @@
                         <button onclick="openSettingsModal()" class="w-8 h-8 rounded-lg bg-slate-100 dark:bg-slate-800/40 border border-slate-200 dark:border-slate-700/50 hover:border-amber-500 flex items-center justify-center text-slate-500 dark:text-slate-400 hover:text-amber-500 cursor-pointer transition-colors" title="AI Connections Settings">
                             <i data-lucide="settings" class="w-4 h-4"></i>
                         </button>
-                        <button onclick="toggleMobileMenu()" id="mobile-menu-toggle" class="md:hidden w-8 h-8 rounded-lg bg-slate-100 dark:bg-slate-800/40 border border-slate-200 dark:border-slate-700/50 flex items-center justify-center text-slate-500 dark:text-slate-400 hover:text-amber-500 cursor-pointer transition-colors" title="Toggle Menu">
+                        <button onclick="toggleMobileMenu()" id="mobile-menu-toggle" class="hidden w-8 h-8 rounded-lg bg-slate-100 dark:bg-slate-800/40 border border-slate-200 dark:border-slate-700/50 flex items-center justify-center text-slate-500 dark:text-slate-400 hover:text-amber-500 cursor-pointer transition-colors" title="Toggle Menu">
                             <i data-lucide="menu" class="w-4 h-4"></i>
                         </button>
                     </div>
                 </div>
 
                 <!-- Collapsible content container: visible on desktop, toggleable on mobile -->
-                <div id="sidebar-mobile-content" class="hidden md:flex md:flex-col md:justify-between flex-1 mt-4 md:mt-6">
+                <div id="sidebar-mobile-content" class="flex flex-col md:justify-between flex-1 mt-4 md:mt-6">
                     <div>
                         <div id="sidebarAuthCard" class="bg-slate-100/50 dark:bg-slate-900/80 rounded-2xl p-4 mb-4 border border-slate-200/60 dark:border-slate-800/60 space-y-3">
                             </div>
@@ -4311,7 +4311,7 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
             container.innerHTML = uniqueCategories.map(cat => {
                 let isCurrent = cat === currentToolCategoryFilter;
                 return `
-                    <button onclick="setLibraryActiveCategoryFilter('${cat}')" class="px-3 py-1 text-xs rounded-lg whitespace-nowrap transition-all cursor-pointer ${isCurrent ? 'bg-amber-500/10 text-amber-800 dark:text-amber-300 border border-amber-500/35 shadow-xs font-bold' : 'bg-stone-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-stone-700 dark:text-slate-300 font-bold hover:border-amber-500/20 hover:text-amber-600 dark:hover:text-white'}">
+                    <button onclick="setLibraryActiveCategoryFilter('${cat}')" class="px-3 py-1 text-xs rounded-lg whitespace-nowrap shrink-0 transition-all cursor-pointer ${isCurrent ? 'bg-amber-500/10 text-amber-800 dark:text-amber-300 border border-amber-500/35 shadow-xs font-bold' : 'bg-stone-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-stone-700 dark:text-slate-300 font-bold hover:border-amber-500/20 hover:text-amber-600 dark:hover:text-white'}">
                         ${cat}
                     </button>
                 `;
@@ -5876,15 +5876,15 @@ Answer using this site data first. Format responses with bullet points, bold too
             }
         };
         
-        // Attach to all navigation buttons and links inside sidebar
-        sidebar.querySelectorAll('.nav-btn, button, a').forEach(el => {
+        // Attach to all navigation buttons inside sidebar
+        sidebar.querySelectorAll('.nav-btn').forEach(el => {
             el.addEventListener('click', closeSidebarOnClick);
         });
         
         // Also attach to any dynamically added items via event delegation
         sidebar.addEventListener('click', (e) => {
-            const target = e.target.closest('.nav-btn, button, a');
-            if (target && !target.classList.contains('mobile-menu-btn')) {
+            const target = e.target.closest('.nav-btn');
+            if (target) {
                 closeSidebarOnClick();
             }
         });
