@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### The AI Money Kit [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-08-15
+
 ### Daily AI Updates - 13 August  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -14,27 +20,21 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-10
 
-### The AI Alignment Files [AI Dispatch]
+### The AI Alignment Files  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-09
 
-### The Free AI Models Kit [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-04
+### Working with AI feels more like leadership than coding [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 268 points).
+  - Author/Reporter: allenb
+  - Resource Link: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49309451
 
-### Google is making private AI practical with homomorphic encryption [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 409 points).
-  - Author/Reporter: u1hcw9nx
-  - Resource Link: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49300314
-
-### Show HN: ThoughtDAG – An editable context graph for LLM conversations [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 45 points).
-  - Author/Reporter: chatchan
-  - Resource Link: https://chenxiachan.github.io/thoughtdag/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49307700
+### The complete AI SEO playbook: from zero to 4.6M impressions in 3 months [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 3 points).
+  - Author/Reporter: t_cohen
+  - Resource Link: https://github.com/TraceCohenTech/ai-seo-playbook
+  - Discussion Thread: https://news.ycombinator.com/item?id=49315620
 
