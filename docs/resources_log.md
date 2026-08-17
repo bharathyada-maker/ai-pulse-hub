@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-09
 
-### Working with AI feels more like leadership than coding [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 268 points).
-  - Author/Reporter: allenb
-  - Resource Link: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49309451
+### Claude: System Prompts [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 541 points).
+  - Author/Reporter: tosh
+  - Resource Link: https://platform.claude.com/docs/en/release-notes/system-prompts
+  - Discussion Thread: https://news.ycombinator.com/item?id=49319556
 
-### The complete AI SEO playbook: from zero to 4.6M impressions in 3 months [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 3 points).
-  - Author/Reporter: t_cohen
-  - Resource Link: https://github.com/TraceCohenTech/ai-seo-playbook
-  - Discussion Thread: https://news.ycombinator.com/item?id=49315620
+### The AI Credit Resale Economy [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 225 points).
+  - Author/Reporter: mlenhard
+  - Resource Link: https://vectoral.com/blog/who-are-the-token-brokers
+  - Discussion Thread: https://news.ycombinator.com/item?id=49320611
 
