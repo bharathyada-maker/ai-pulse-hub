@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-09
 
-### Claude: System Prompts [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 541 points).
-  - Author/Reporter: tosh
-  - Resource Link: https://platform.claude.com/docs/en/release-notes/system-prompts
-  - Discussion Thread: https://news.ycombinator.com/item?id=49319556
+### GPT-5.6 Sol Pricing Cut by 50% [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 110 points).
+  - Author/Reporter: Topfi
+  - Resource Link: https://openrouter.ai/openai/gpt-5.6-sol
+  - Discussion Thread: https://news.ycombinator.com/item?id=49337602
 
-### The AI Credit Resale Economy [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 225 points).
-  - Author/Reporter: mlenhard
-  - Resource Link: https://vectoral.com/blog/who-are-the-token-brokers
-  - Discussion Thread: https://news.ycombinator.com/item?id=49320611
+### GPT 5.6 Sol is the best "vision" model OpenAI ever released [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 302 points).
+  - Author/Reporter: plurby
+  - Resource Link: https://blog.roboflow.com/openai-gpt-5-6/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49329575
 
