@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI Update - 19 August [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-08-19
+
 ### Daily AI Update - 18 August [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-13
 
-### The Muse Code Build Kit [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-10
+### Universality of Gradient Descent Neural Network Training [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 7 points).
+  - Author/Reporter: E-Reverance
+  - Resource Link: https://arxiv.org/abs/2007.13664
+  - Discussion Thread: https://news.ycombinator.com/item?id=49368828
 
-### Claude Code Teaching macOS to Natively Print to the HP Laser 1008a [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 111 points).
-  - Author/Reporter: amrrs
-  - Resource Link: https://cdn.kuber.studio/chat/hp-laser-1008a-driver
-  - Discussion Thread: https://news.ycombinator.com/item?id=49352806
-
-### Norway should buy OpenAI [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 211 points).
-  - Author/Reporter: alexeigannon
-  - Resource Link: https://www.onethousandmeans.com/p/norway-should-buy-openai
-  - Discussion Thread: https://news.ycombinator.com/item?id=49351330
+### Extensible Software in the age of LLMs [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 106 points).
+  - Author/Reporter: coloneltcb
+  - Resource Link: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49363668
 
