@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI Updates - 20 August [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-08-20
+
 ### Daily AI Update - 19 August [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-15
 
-### Daily AI Updates - 13 August  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-13
+### Vomit: Clean up Claude 5's token output with a separate LLM [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 193 points).
+  - Author/Reporter: Bluestein
+  - Resource Link: https://github.com/zachahn/vomit
+  - Discussion Thread: https://news.ycombinator.com/item?id=49375996
 
-### Universality of Gradient Descent Neural Network Training [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 7 points).
-  - Author/Reporter: E-Reverance
-  - Resource Link: https://arxiv.org/abs/2007.13664
-  - Discussion Thread: https://news.ycombinator.com/item?id=49368828
-
-### Extensible Software in the age of LLMs [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 106 points).
-  - Author/Reporter: coloneltcb
-  - Resource Link: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49363668
+### Hacking with Claude on a $27 smart watch [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 85 points).
+  - Author/Reporter: speckx
+  - Resource Link: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html
+  - Discussion Thread: https://news.ycombinator.com/item?id=49374772
 
