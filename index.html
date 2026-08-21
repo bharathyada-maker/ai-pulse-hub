@@ -3974,19 +3974,7 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
                     activeBtn.className = "nav-btn w-full flex items-center gap-3 px-3 py-2.5 rounded-xl font-bold text-sm bg-amber-500/10 text-amber-800 border border-amber-500/35 dark:bg-amber-500/15 dark:text-amber-300 dark:border-amber-500/35 text-left cursor-pointer transition-all";
                 }
             }
-            // Auto close mobile navigation menu when a tab is selected
-            const content = document.getElementById('sidebar-mobile-content');
-            if (content && !content.classList.contains('hidden') && window.innerWidth < 768) {
-                content.classList.add('hidden');
-                content.classList.remove('block', 'flex', 'flex-col');
-                const toggleBtn = document.getElementById('mobile-menu-toggle');
-                if (toggleBtn) {
-                    toggleBtn.innerHTML = '<i data-lucide="menu" class="w-4 h-4"></i>';
-                }
-                if (typeof lucide !== 'undefined' && lucide.createIcons) {
-                    lucide.createIcons();
-                }
-            }
+
 
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
