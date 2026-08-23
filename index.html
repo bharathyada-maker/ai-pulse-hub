@@ -1776,12 +1776,40 @@
             </section>
 
             <section id="tab-radar" class="tab-section space-y-6 hidden">
-                <div>
-                    <h2 class="text-xl font-bold tracking-wide text-slate-900 dark:text-white">Opportunity Radar Engine</h2>
-                    <p class="text-xs text-slate-500 mt-1">Vetted active 2026 remote marketplace contracts and direct live application vectors links.</p>
-                </div>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-6" id="radarGridBox">
+                <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <div>
+                        <h2 class="text-xl font-bold tracking-wide text-slate-900 dark:text-white flex items-center gap-2">
+                            <span class="relative flex h-2 w-2 mr-1">
+                              <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-450 opacity-75"></span>
+                              <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+                            </span>
+                            Opportunity Radar Engine
+                        </h2>
+                        <p class="text-xs text-slate-500 mt-1">Current live AI openings, RLHF contracts, and verified application pipeline channels.</p>
                     </div>
+                    
+                    <div class="bg-emerald-500/10 text-emerald-600 dark:text-emerald-450 text-[10px] font-bold font-mono px-3 py-1.5 rounded-xl border border-emerald-500/20 w-fit shrink-0 flex items-center gap-1.5">
+                        <i data-lucide="radio" class="w-3.5 h-3.5 animate-pulse"></i> LIVE SYNC ACTIVE
+                    </div>
+                </div>
+
+                <!-- Filters Control Bar -->
+                <div class="flex flex-col md:flex-row gap-3 bg-slate-100/50 dark:bg-slate-900/60 p-3 rounded-2xl border border-slate-200/50 dark:border-slate-800/60">
+                    <div class="flex-1 relative">
+                        <i data-lucide="search" class="w-4 h-4 text-slate-500 absolute left-3 top-1/2 -translate-y-1/2"></i>
+                        <input oninput="handleRadarSearchInput(event)" type="text" placeholder="Search live requirements (e.g. Python, Agent, Outlier...)" class="w-full pl-9 pr-4 py-1.5 rounded-xl text-xs bg-slate-950 border border-slate-800 text-white placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-amber-500 transition-colors">
+                    </div>
+                    
+                    <div class="flex gap-2 overflow-x-auto shrink-0 pb-1 md:pb-0">
+                        <button onclick="setRadarCategoryFilter('all')" id="radar-filter-all" class="px-3 py-1.5 rounded-xl text-xs font-bold font-mono bg-amber-500 text-stone-950 border border-amber-500/30 transition-all cursor-pointer">All</button>
+                        <button onclick="setRadarCategoryFilter('upwork')" id="radar-filter-upwork" class="px-3 py-1.5 rounded-xl text-xs font-semibold font-mono bg-slate-950/80 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all cursor-pointer">Upwork Freelance</button>
+                        <button onclick="setRadarCategoryFilter('annotation')" id="radar-filter-annotation" class="px-3 py-1.5 rounded-xl text-xs font-semibold font-mono bg-slate-950/80 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all cursor-pointer">RLHF & Training</button>
+                        <button onclick="setRadarCategoryFilter('engineering')" id="radar-filter-engineering" class="px-3 py-1.5 rounded-xl text-xs font-semibold font-mono bg-slate-950/80 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all cursor-pointer">AI Engineering</button>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6" id="radarGridBox">
+                </div>
             </section>
 
             <section id="tab-lexicon" class="tab-section space-y-6 hidden">
@@ -4498,8 +4526,71 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
             activateWorkflowTrack(wfId);
         }
 
+        let activeRadarCategory = 'all';
+        let radarSearchQuery = '';
+
+        function setRadarCategoryFilter(cat) {
+            activeRadarCategory = cat;
+            ['all', 'upwork', 'annotation', 'engineering'].forEach(c => {
+                const btn = document.getElementById(`radar-filter-${c}`);
+                if (btn) {
+                    if (c === cat) {
+                        btn.className = "px-3 py-1.5 rounded-xl text-xs font-bold font-mono bg-amber-500 text-stone-950 border border-amber-500/30 transition-all cursor-pointer";
+                    } else {
+                        btn.className = "px-3 py-1.5 rounded-xl text-xs font-semibold font-mono bg-slate-950/80 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all cursor-pointer";
+                    }
+                }
+            });
+            renderOpportunityRadarGrid();
+        }
+
+        function handleRadarSearchInput(e) {
+            radarSearchQuery = e.target.value.toLowerCase().trim();
+            renderOpportunityRadarGrid();
+        }
+
         function renderOpportunityRadarGrid() {
-            document.getElementById('radarGridBox').innerHTML = RADAR_DATA.map(r => {
+            const gridBox = document.getElementById('radarGridBox');
+            if (!gridBox) return;
+
+            let filtered = RADAR_DATA.filter(r => {
+                let cat = 'annotation';
+                const lowerTitle = r.title.toLowerCase();
+                if (lowerTitle.includes('upwork')) {
+                    cat = 'upwork';
+                } else if (lowerTitle.includes('architect') || lowerTitle.includes('developer') || lowerTitle.includes('engineer') || lowerTitle.includes('contributor')) {
+                    cat = 'engineering';
+                } else if (lowerTitle.includes('annotator') || lowerTitle.includes('trainer') || lowerTitle.includes('labeler') || lowerTitle.includes('evaluator') || lowerTitle.includes('assessor')) {
+                    cat = 'annotation';
+                }
+
+                if (activeRadarCategory !== 'all' && cat !== activeRadarCategory) {
+                    return false;
+                }
+
+                if (radarSearchQuery) {
+                    const text = (r.title + ' ' + r.action + ' ' + r.risk).toLowerCase();
+                    if (!text.includes(radarSearchQuery)) {
+                        return false;
+                    }
+                }
+                return true;
+            });
+
+            if (filtered.length === 0) {
+                gridBox.innerHTML = `
+                    <div class="col-span-full py-12 text-center text-slate-500 font-mono text-xs">
+                        <i data-lucide="search" class="w-8 h-8 mx-auto mb-2 text-slate-600"></i>
+                        No active openings match the search parameters.
+                    </div>
+                `;
+                if (typeof lucide !== 'undefined' && lucide.createIcons) {
+                    lucide.createIcons();
+                }
+                return;
+            }
+
+            gridBox.innerHTML = filtered.map(r => {
                 return `
                     <div class="cyber-card p-5 rounded-2xl flex flex-col justify-between hover:scale-[1.01] transition-all duration-300">
                         <div>
@@ -4523,7 +4614,9 @@ No API key configured. Add a BYOK key in Settings for AI-generated proposals.`;
                     </div>
                 `;
             }).join('');
-            lucide.createIcons();
+            if (typeof lucide !== 'undefined' && lucide.createIcons) {
+                lucide.createIcons();
+            }
         }
 
         function renderAdminAuditDatabaseTable() {
