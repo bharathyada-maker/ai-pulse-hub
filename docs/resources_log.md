@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-19
 
-### DeepSeek-v4-flash-vision-exp [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 465 points).
-  - Author/Reporter: dares2573
-  - Resource Link: https://api-docs.deepseek.com/guides/vision/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49386163
+### NanoGPT Speedrun Frontier [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 44 points).
+  - Author/Reporter: stared
+  - Resource Link: https://www.primeintellect.ai/research/nanogpt-speedrun
+  - Discussion Thread: https://news.ycombinator.com/item?id=49404380
 
-### Claudette: Make Claude stop talking like a BuzzFeed article [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 202 points).
-  - Author/Reporter: aakil
-  - Resource Link: https://github.com/adnanakil/nobuzz/blob/main/README.md
-  - Discussion Thread: https://news.ycombinator.com/item?id=49388752
+### Why your local LLM feels dumber than it is [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 181 points).
+  - Author/Reporter: felineflock
+  - Resource Link: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
+  - Discussion Thread: https://news.ycombinator.com/item?id=49402232
 
