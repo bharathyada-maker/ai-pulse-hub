@@ -1582,7 +1582,7 @@
                                 <div class="space-y-2 mt-4 text-xs">
                                     <div class="bg-slate-950 p-2.5 rounded-xl border border-slate-800/40 flex justify-between items-center">
                                         <span class="text-slate-400">Total Curated Catalog</span>
-                                        <strong class="text-white font-mono">127 Platforms</strong>
+                                        <strong id="telemetryPlatformCount" class="text-white font-mono">127 Platforms</strong>
                                     </div>
                                     <div class="bg-slate-950 p-2.5 rounded-xl border border-slate-800/40 flex justify-between items-center">
                                         <span class="text-slate-400">Functional Wiki Arenas</span>
@@ -5968,6 +5968,17 @@ Answer using this site data first. Format responses with bullet points, bold too
     document.addEventListener('DOMContentLoaded', () => {
         initLocalStorage();
         
+        // Dynamically update platform count references across the site
+        const liveCount = TOOL_DATA.length;
+        const telemetryStats = document.getElementById('telemetryPlatformCount');
+        if (telemetryStats) {
+            telemetryStats.innerText = `${liveCount} Platforms`;
+        }
+        const bannerText = document.getElementById('globalBannerText');
+        if (bannerText) {
+            bannerText.innerHTML = bannerText.innerHTML.replace(/\b\d+\s+platforms\b/gi, `${liveCount} platforms`);
+        }
+        
         if (window.innerWidth <= 768) {
             initMobileMenu();
         }
@@ -6284,7 +6295,7 @@ Answer using this site data first. Format responses with bullet points, bold too
                 `Special thanks to StayingAhead.ai and Hacker News for daily curation feeds`,
                 `Built on the AI Pulse Hub methodology: Problem framing • AI leverage • Practical usefulness • Execution`,
                 `<span class="aipulse-heart">♥</span> Knowledge shared, futures built — courtesy of AI Pulse Hub`,
-                `Catalog of 127 AI tools curated using AI Pulse Hub "Hours → Seconds" framework`
+                `Catalog of ${typeof TOOL_DATA !== 'undefined' ? TOOL_DATA.length : 127} AI tools curated using AI Pulse Hub "Hours → Seconds" framework`
             ];
 
             const sep = '<span class="aipulse-sep">◆</span>';
