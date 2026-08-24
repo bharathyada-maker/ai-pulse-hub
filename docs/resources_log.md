@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Grok Bot Starter Kit [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-08-23
+
 ### The AI Career Playbook [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-20
 
-### Daily AI Update - 19 August [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-19
+### Anthropic's best AI model struggles to attract users as cheaper tools thrive [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 222 points).
+  - Author/Reporter: naves
+  - Resource Link: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
+  - Discussion Thread: https://news.ycombinator.com/item?id=49411102
 
-### NanoGPT Speedrun Frontier [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 44 points).
-  - Author/Reporter: stared
-  - Resource Link: https://www.primeintellect.ai/research/nanogpt-speedrun
-  - Discussion Thread: https://news.ycombinator.com/item?id=49404380
-
-### Why your local LLM feels dumber than it is [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 181 points).
-  - Author/Reporter: felineflock
-  - Resource Link: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
-  - Discussion Thread: https://news.ycombinator.com/item?id=49402232
+### My agent.md to improve LLM-assisted code quality [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 164 points).
+  - Author/Reporter: ibobev
+  - Resource Link: https://fabiensanglard.net/agent.md/index.html
+  - Discussion Thread: https://news.ycombinator.com/item?id=49410932
 
