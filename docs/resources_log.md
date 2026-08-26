@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI Updates 26 August [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-08-25
+
 ### Daily AI Updates - 24 August [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-21
 
-### Free Vs Paid AI Tool [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-21
+### OpenAI Jalapeño: Better than Nvidia Blackwell [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 328 points).
+  - Author/Reporter: bmulholland
+  - Resource Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
+  - Discussion Thread: https://news.ycombinator.com/item?id=49434378
 
-### LLMs could control their host machines by exploiting inference engines [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 93 points).
-  - Author/Reporter: zdw
-  - Resource Link: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
-  - Discussion Thread: https://news.ycombinator.com/item?id=49424387
-
-### OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21) [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 296 points).
-  - Author/Reporter: tosh
-  - Resource Link: https://developers.openai.com/api/docs/pricing
-  - Discussion Thread: https://news.ycombinator.com/item?id=49421074
+### Clara (YC P26) is hiring a growth engineer to bring AI doctors to market [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 1 points).
+  - Author/Reporter: gfavvas
+  - Resource Link: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer
+  - Discussion Thread: https://news.ycombinator.com/item?id=49437566
 
