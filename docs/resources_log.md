@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-08-26
 
-### I accidentally turned LLM memory into program analysis [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 103 points).
-  - Author/Reporter: matt_d
-  - Resource Link: https://pwning.systems/posts/llm-memory-program-analysis/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49485416
-
 ### StemDeck, a free, open-source and local AI stem separator [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 69 points).
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 213 points).
   - Author/Reporter: thclpr
   - Resource Link: https://github.com/stemdeckapp/stemdeck
   - Discussion Thread: https://news.ycombinator.com/item?id=49486081
+
+### I accidentally turned LLM memory into program analysis [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 283 points).
+  - Author/Reporter: matt_d
+  - Resource Link: https://pwning.systems/posts/llm-memory-program-analysis/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49485416
 
