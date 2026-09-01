@@ -2,39 +2,39 @@
 
 Latest sync items:
 
-### Daily AI Updates 28 August [AI Dispatch]
+### InVideo Agent 2: AI Filmmaking Kit [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-28
+  - Published: 2026-08-31
 
-### Daily AI Updates 27 August [AI Dispatch]
+### ZCODE + GLM-5.3 Flash Guide [Cheat Sheet]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-27
+  - Published: 2026-08-31
 
-### Atlas  [AI Dispatch]
+### Token Black Market [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-26
+  - Published: 2026-08-31
 
-### Daily AI Updates 26 August [AI Dispatch]
+### Daily AI Updates 31 August  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-26
+  - Published: 2026-08-31
 
-### The EU has begun enforcing the AI Act: first RFIs to model providers [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 26 points).
-  - Author/Reporter: cdnsteve
-  - Resource Link: https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis
-  - Discussion Thread: https://news.ycombinator.com/item?id=49505351
+### Apple caught off guard by AI demand for Mac Mini and Mac Studio [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 352 points).
+  - Author/Reporter: thm
+  - Resource Link: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49508982
 
-### Understanding ChatGPT Work [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 103 points).
-  - Author/Reporter: gmays
-  - Resource Link: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49504625
+### ChatGPT Work Tool and Skill Reference [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 201 points).
+  - Author/Reporter: ijidak
+  - Resource Link: https://codex-tool-reference.simonw.chatgpt.site/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49510000
 
