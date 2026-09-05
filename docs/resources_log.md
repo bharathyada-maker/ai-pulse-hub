@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 4 Spetember [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-04
+
 ### Daily AI updates 3 September [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-02
 
-### 10 Prompts to Optimize Your LinkedIn Profile [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-01
+### Discovery of a new OpenAI agent message board [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 1545 points).
+  - Author/Reporter: moultano
+  - Resource Link: https://collusion.wiki/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49563355
 
-### GPT-6 Astra [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 1464 points).
-  - Author/Reporter: kibae
-  - Resource Link: https://openai.com/index/gpt-6-astra/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49554643
-
-### Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 224 points).
-  - Author/Reporter: rabahs
-  - Resource Link: https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49550375
+### GPT-6 Astra on OpenRouter [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 150 points).
+  - Author/Reporter: Topfi
+  - Resource Link: https://openrouter.ai/openai/gpt-6-astra
+  - Discussion Thread: https://news.ycombinator.com/item?id=49570545
 
