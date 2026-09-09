@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 8 september  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-08
+
 ### Daily AI updates 7 september [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-04
 
-### Daily AI updates 3 September [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-03
+### Muse – Meta’s personal AI agent [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 376 points).
+  - Author/Reporter: yks
+  - Resource Link: https://ai.meta.com/muse/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49615537
 
-### Speculative Decoding in vLLM on AMD GPUs [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 135 points).
-  - Author/Reporter: ankitg12
-  - Resource Link: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus
-  - Discussion Thread: https://news.ycombinator.com/item?id=49596054
-
-### Initial effects of AI technology on employment look positive [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 72 points).
-  - Author/Reporter: MrBuddyCasino
-  - Resource Link: https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here
-  - Discussion Thread: https://news.ycombinator.com/item?id=49596610
+### ChatGPT Images 2.5 [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 280 points).
+  - Author/Reporter: vertigoruntime
+  - Resource Link: https://openai.com/index/introducing-chatgpt-images-2-5/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49614720
 
