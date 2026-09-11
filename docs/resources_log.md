@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 10 september  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-10
+
 ### Daily AI updates 9 september  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-08
 
-### Daily AI updates 7 september [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-07
+### More questions about whether researchers can trust OpenAI with unpublished math [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 743 points).
+  - Author/Reporter: pred_
+  - Resource Link: https://mathstodon.xyz/@andreasthom/117240535270608201
+  - Discussion Thread: https://news.ycombinator.com/item?id=49639408
 
-### Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 16 points).
-  - Author/Reporter: Anon84
-  - Resource Link: https://hugovergnes.github.io/little-lm-3-8b/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49637435
-
-### GPT-6 Astra, looped transformers, and hidden reasoning [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 371 points).
-  - Author/Reporter: ModelForge
-  - Resource Link: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and
-  - Discussion Thread: https://news.ycombinator.com/item?id=49627370
+### OpenAI Agents API [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 180 points).
+  - Author/Reporter: aquir
+  - Resource Link: https://developers.openai.com/api/docs/guides/agents-api/overview
+  - Discussion Thread: https://news.ycombinator.com/item?id=49649213
 
