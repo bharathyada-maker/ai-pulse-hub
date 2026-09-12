@@ -2,39 +2,39 @@
 
 Latest sync items:
 
-### Daily AI updates 10 september  [AI Dispatch]
+### Create Better Presentations With AI [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-10
+  - Published: 2026-09-11
 
-### Daily AI updates 9 september  [AI Dispatch]
+### Build Your Own AI Agent  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-09
+  - Published: 2026-09-11
 
-### Fable 5.1 or GPT-6 Astra: the jobs guide [Cheat Sheet]
+### The Astra Power Playbook [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-09
+  - Published: 2026-09-11
 
-### Daily AI updates 8 september  [AI Dispatch]
+### Daily AI updates 11 september  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-08
+  - Published: 2026-09-11
 
-### More questions about whether researchers can trust OpenAI with unpublished math [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 743 points).
-  - Author/Reporter: pred_
-  - Resource Link: https://mathstodon.xyz/@andreasthom/117240535270608201
-  - Discussion Thread: https://news.ycombinator.com/item?id=49639408
+### A misalignment of AI in mathematics [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 756 points).
+  - Author/Reporter: meredydd
+  - Resource Link: https://mathandai.org/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49662371
 
-### OpenAI Agents API [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 180 points).
-  - Author/Reporter: aquir
-  - Resource Link: https://developers.openai.com/api/docs/guides/agents-api/overview
-  - Discussion Thread: https://news.ycombinator.com/item?id=49649213
+### OpenAI agents carried out an undisclosed attack on RubyGems [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 469 points).
+  - Author/Reporter: chao-
+  - Resource Link: https://www.rubyhack.ai/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49666735
 
