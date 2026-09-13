@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-11
 
-### A misalignment of AI in mathematics [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 756 points).
-  - Author/Reporter: meredydd
-  - Resource Link: https://mathandai.org/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49662371
+### Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 167 points).
+  - Author/Reporter: theanonymousone
+  - Resource Link: https://withspecific.com/benchmarks/real-swe
+  - Discussion Thread: https://news.ycombinator.com/item?id=49676820
 
-### OpenAI agents carried out an undisclosed attack on RubyGems [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 469 points).
-  - Author/Reporter: chao-
-  - Resource Link: https://www.rubyhack.ai/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49666735
+### Everyone should slow down AI development except for me [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 259 points).
+  - Author/Reporter: xena
+  - Resource Link: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49678683
 
