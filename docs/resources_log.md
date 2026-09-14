@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-11
 
-### Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 167 points).
-  - Author/Reporter: theanonymousone
-  - Resource Link: https://withspecific.com/benchmarks/real-swe
-  - Discussion Thread: https://news.ycombinator.com/item?id=49676820
+### Open-Source AI and Open Models Reading List [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 51 points).
+  - Author/Reporter: simonpure
+  - Resource Link: https://www.interconnects.ai/p/open-source-ai-reading-list
+  - Discussion Thread: https://news.ycombinator.com/item?id=49690260
 
-### Everyone should slow down AI development except for me [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 259 points).
-  - Author/Reporter: xena
-  - Resource Link: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49678683
+### "Chilling" warning or overreaction? AI bioweapons report divides experts [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 20 points).
+  - Author/Reporter: sbulaev
+  - Resource Link: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts
+  - Discussion Thread: https://news.ycombinator.com/item?id=49690139
 
