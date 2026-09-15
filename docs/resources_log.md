@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Use AI to Fix Your Resume [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-14
+
 ### Create Better Presentations With AI [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-11
 
-### Daily AI updates 11 september  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-11
+### Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen) [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 67 points).
+  - Author/Reporter: nathannaveen
+  - Resource Link: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49697477
 
-### Open-Source AI and Open Models Reading List [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 51 points).
-  - Author/Reporter: simonpure
-  - Resource Link: https://www.interconnects.ai/p/open-source-ai-reading-list
-  - Discussion Thread: https://news.ycombinator.com/item?id=49690260
-
-### "Chilling" warning or overreaction? AI bioweapons report divides experts [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 20 points).
-  - Author/Reporter: sbulaev
-  - Resource Link: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts
-  - Discussion Thread: https://news.ycombinator.com/item?id=49690139
+### OpenAI bots knew about the RubyGems caching vulnerability [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 408 points).
+  - Author/Reporter: gregnavis
+  - Resource Link: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49695876
 
