@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 15 september  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-15
+
 ### Use AI to Fix Your Resume [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-11
 
-### The Astra Power Playbook [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-11
+### Stay discoverable in search while disallowing AI training [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 37 points).
+  - Author/Reporter: djfergus
+  - Resource Link: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49721435
 
-### Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen) [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 67 points).
-  - Author/Reporter: nathannaveen
-  - Resource Link: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49697477
-
-### OpenAI bots knew about the RubyGems caching vulnerability [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 408 points).
-  - Author/Reporter: gregnavis
-  - Resource Link: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49695876
+### Learning to solve hard problems in RL for LLMs by never giving up [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 59 points).
+  - Author/Reporter: natolambert
+  - Resource Link: https://mnoukhov.github.io/posts/ngu/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49717280
 
