@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 17 September  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-17
+
 ### Daily AI updates 16 September  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-14
 
-### Create Better Presentations With AI [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-11
+### Hacking OpenAI [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 78 points).
+  - Author/Reporter: Handy-Man
+  - Resource Link: https://www.hacktron.ai/blog/hacking-openai
+  - Discussion Thread: https://news.ycombinator.com/item?id=49749656
 
-### DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 69 points).
-  - Author/Reporter: mfiguiere
-  - Resource Link: https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html
-  - Discussion Thread: https://news.ycombinator.com/item?id=49735410
-
-### Breaking the 1.58-bit Barrier for Ternary LLMs [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 163 points).
-  - Author/Reporter: matt_d
-  - Resource Link: https://arxiv.org/abs/2609.16338
-  - Discussion Thread: https://news.ycombinator.com/item?id=49732931
+### Bend – A language that blocks AI mistakes via proof, on CPU and GPU [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 358 points).
+  - Author/Reporter: nicolas-siplis
+  - Resource Link: https://bend-lang.com/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49746163
 
