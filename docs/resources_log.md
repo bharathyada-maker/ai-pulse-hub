@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-15
 
-### How to Write with an LLM [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 648 points).
-  - Author/Reporter: joeriddles
-  - Resource Link: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49747070
+### ChatGPT now knows what you do on other websites via ad collector [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 693 points).
+  - Author/Reporter: lmbbuchodi
+  - Resource Link: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49776729
 
-### Two parallel neural ectoderm progenitors contribute to the developing brain [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 615 points).
-  - Author/Reporter: emigre
-  - Resource Link: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html
-  - Discussion Thread: https://news.ycombinator.com/item?id=49763697
+### Pirate Face Rescues LLM Models from Deletion [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 489 points).
+  - Author/Reporter: skepticalgenius
+  - Resource Link: https://pirateface.co/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49776699
 
