@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates September 21   [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-21
+
 ### Daily AI updates 18 September  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-16
 
-### Daily AI updates 15 september  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-15
+### Transformers Explained Visually [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 257 points).
+  - Author/Reporter: aray07
+  - Resource Link: https://poloclub.github.io/transformer-explainer/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49792342
 
-### ChatGPT now knows what you do on other websites via ad collector [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 693 points).
-  - Author/Reporter: lmbbuchodi
-  - Resource Link: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49776729
-
-### Pirate Face Rescues LLM Models from Deletion [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 489 points).
-  - Author/Reporter: skepticalgenius
-  - Resource Link: https://pirateface.co/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49776699
+### Claude Status – Elevated errors for multiple models [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 78 points).
+  - Author/Reporter: corvad
+  - Resource Link: https://status.claude.com/incidents/7g1qpkyz5gxh
+  - Discussion Thread: https://news.ycombinator.com/item?id=49795579
 
