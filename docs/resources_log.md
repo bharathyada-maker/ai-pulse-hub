@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates September 22  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-22
+
 ### Daily AI updates September 21   [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-17
 
-### Daily AI updates 16 September  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-16
+### GPT-6 Sol and Luna [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 1320 points).
+  - Author/Reporter: OfficialTurkey
+  - Resource Link: https://openai.com/index/introducing-gpt-6-sol-and-luna/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49805509
 
-### Transformers Explained Visually [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 257 points).
-  - Author/Reporter: aray07
-  - Resource Link: https://poloclub.github.io/transformer-explainer/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49792342
-
-### Claude Status – Elevated errors for multiple models [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 78 points).
-  - Author/Reporter: corvad
-  - Resource Link: https://status.claude.com/incidents/7g1qpkyz5gxh
-  - Discussion Thread: https://news.ycombinator.com/item?id=49795579
+### Claude Opus 5.5 [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 1329 points).
+  - Author/Reporter: km144
+  - Resource Link: https://www.anthropic.com/claude-opus-5-5
+  - Discussion Thread: https://news.ycombinator.com/item?id=49803892
 
