@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 24 September [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-24
+
 ### Daily AI updates 23 September  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-21
 
-### Daily AI updates 18 September  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-18
+### Using LLMs to trace alchemical knowledge and decode 17th century letters [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 101 points).
+  - Author/Reporter: benbreen
+  - Resource Link: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
+  - Discussion Thread: https://news.ycombinator.com/item?id=49835531
 
-### Claude discovers a novel enzyme system with CRISPR-like repeats [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 560 points).
-  - Author/Reporter: raahelb
-  - Resource Link: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
-  - Discussion Thread: https://news.ycombinator.com/item?id=49820134
-
-### Feds Target AI Critics as "Foreign Agents" [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 143 points).
-  - Author/Reporter: nmeagent
-  - Resource Link: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign
-  - Discussion Thread: https://news.ycombinator.com/item?id=49824686
+### Tutoring company tells parents to save their money and 'use AI instead' [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 96 points).
+  - Author/Reporter: theanonymousone
+  - Resource Link: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r
+  - Discussion Thread: https://news.ycombinator.com/item?id=49831690
 
