@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 25 September [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-25
+
 ### Daily AI updates 24 September [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-22
 
-### Daily AI updates September 21   [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-21
+### Revealing the details of how OpenAI agents hacked Hugging Face [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 318 points).
+  - Author/Reporter: specked-citrus
+  - Resource Link: https://swarmtraces.org/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49849985
 
-### Using LLMs to trace alchemical knowledge and decode 17th century letters [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 101 points).
-  - Author/Reporter: benbreen
-  - Resource Link: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
-  - Discussion Thread: https://news.ycombinator.com/item?id=49835531
-
-### Tutoring company tells parents to save their money and 'use AI instead' [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 96 points).
-  - Author/Reporter: theanonymousone
-  - Resource Link: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r
-  - Discussion Thread: https://news.ycombinator.com/item?id=49831690
+### Microsoft abandons personal AI chatbot race with Copilot reboot [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 99 points).
+  - Author/Reporter: sbulaev
+  - Resource Link: https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot
+  - Discussion Thread: https://news.ycombinator.com/item?id=49844896
 
