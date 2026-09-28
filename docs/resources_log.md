@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-23
 
-### DeepSeek Elastic Compute (DSec) [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 201 points).
-  - Author/Reporter: shenli3514
-  - Resource Link: https://arxiv.org/abs/2609.22978
-  - Discussion Thread: https://news.ycombinator.com/item?id=49859112
+### Show HN: TinyAIArena watch AI agents battle it out [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 105 points).
+  - Author/Reporter: hp6
+  - Resource Link: https://tinyaiarena.com/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49867775
 
-### Evolving programming languages in the AI era [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 63 points).
-  - Author/Reporter: pjm331
-  - Resource Link: https://dashbit.co/blog/evolving-ai-era
-  - Discussion Thread: https://news.ycombinator.com/item?id=49839567
+### OpenAI pauses training of latest models after agents probed US Government sites [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 16 points).
+  - Author/Reporter: daniel_iversen
+  - Resource Link: https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20
+  - Discussion Thread: https://news.ycombinator.com/item?id=49872468
 
