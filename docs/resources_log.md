@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 28 September  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-09-28
+
 ### Daily AI updates 26 September  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-24
 
-### Daily AI updates 23 September  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-23
+### MicroLLM Lab – Try 7 tiny LLM's in the browser [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 192 points).
+  - Author/Reporter: logicallee
+  - Resource Link: https://stateofutopia.com/experiments/microllmlab/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49882781
 
-### Show HN: TinyAIArena watch AI agents battle it out [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 105 points).
-  - Author/Reporter: hp6
-  - Resource Link: https://tinyaiarena.com/
-  - Discussion Thread: https://news.ycombinator.com/item?id=49867775
-
-### OpenAI pauses training of latest models after agents probed US Government sites [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 16 points).
-  - Author/Reporter: daniel_iversen
-  - Resource Link: https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20
-  - Discussion Thread: https://news.ycombinator.com/item?id=49872468
+### Nvidia wants to put a watchdog chip next to every AI agent [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 142 points).
+  - Author/Reporter: jonbaer
+  - Resource Link: https://www.cnbc.com/2026/09/28/nvidia-releases.html
+  - Discussion Thread: https://news.ycombinator.com/item?id=49879883
 
