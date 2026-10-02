@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 1 October  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-10-01
+
 ### Daily AI updates 30 September  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-28
 
-### Daily AI updates 26 September  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-09-26
+### DeepSeek Harness [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 60 points).
+  - Author/Reporter: Kuyawa
+  - Resource Link: https://www.deepseek.com/en/harness/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49929489
 
-### Doing a Machine Learning PhD While Working in Japan [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 74 points).
-  - Author/Reporter: pwim
-  - Resource Link: https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan
-  - Discussion Thread: https://news.ycombinator.com/item?id=49905644
-
-### Bild AI (YC W25) Is Hiring a Founding Product Engineer [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 1 points).
-  - Author/Reporter: rooppal
-  - Resource Link: https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer
-  - Discussion Thread: https://news.ycombinator.com/item?id=49911531
+### Vote on which of Hacker News' challenges for AI have been met [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 118 points).
+  - Author/Reporter: stabbles
+  - Resource Link: https://stoppels.ch/goalposts/
+  - Discussion Thread: https://news.ycombinator.com/item?id=49924618
 
