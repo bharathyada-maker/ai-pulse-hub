@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-09-29
 
-### Three AI agents, two countries, and one uneven world wide web [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 19 points).
-  - Author/Reporter: effects
-  - Resource Link: https://royapakzad.substack.com/p/multilingual-ai-agents
-  - Discussion Thread: https://news.ycombinator.com/item?id=49938326
+### Homa: The end of TCP for AI clusters [video] [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 65 points).
+  - Author/Reporter: signa11
+  - Resource Link: https://www.youtube.com/watch?v=eZ8WWZzoaR0
+  - Discussion Thread: https://news.ycombinator.com/item?id=49957117
 
-### I quit OpenAI because its culture is broken [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 136 points).
-  - Author/Reporter: Brajeshwar
-  - Resource Link: https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
-  - Discussion Thread: https://news.ycombinator.com/item?id=49944227
+### How to scale intent, quality, and artistry with AI [video] [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 70 points).
+  - Author/Reporter: simonjgreen
+  - Resource Link: https://www.youtube.com/watch?v=GLvFTMtw4Jk
+  - Discussion Thread: https://news.ycombinator.com/item?id=49951891
 
