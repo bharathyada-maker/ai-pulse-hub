@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 9 october  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-10-09
+
 ### Daily AI Updates 8 October  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-10-06
 
-### Daily AI updates 5 october   [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-10-05
+### Typesafe AI raises $870M at $7.5B [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 323 points).
+  - Author/Reporter: tosh
+  - Resource Link: https://typesafe.ai/blog/series-ai
+  - Discussion Thread: https://news.ycombinator.com/item?id=50023450
 
-### Why isn't the industry freaking out about DeepSeek 4.1 Flash? [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 537 points).
-  - Author/Reporter: jonotime
-  - Resource Link: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50000488
-
-### Show HN: Jevman – AI decision models play Pac-Man [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 52 points).
-  - Author/Reporter: felix089
-  - Resource Link: https://opper.ai/jevman-benchmark/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50007993
+### If AI is conscient, then we are making slaves [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 4 points).
+  - Author/Reporter: mathieu_aithos
+  - Resource Link: https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi
+  - Discussion Thread: https://news.ycombinator.com/item?id=50029681
 
