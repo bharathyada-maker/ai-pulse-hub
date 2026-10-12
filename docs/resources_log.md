@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 12 October  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-10-12
+
 ### Daily AI updates 10 october  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-10-08
 
-### Daily AI updates 7 October  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-10-07
+### The gap in shared understanding of LLM capability is widening [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 364 points).
+  - Author/Reporter: albertzeyer
+  - Resource Link: https://twitter.com/karpathy/status/2109361546505966046
+  - Discussion Thread: https://news.ycombinator.com/item?id=50047422
 
-### Talorys – A self-hosted personal AI agent on Cloudflare's free tier [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 273 points).
-  - Author/Reporter: rociiu
-  - Resource Link: https://github.com/rociiu/talorys
-  - Discussion Thread: https://news.ycombinator.com/item?id=50031614
-
-### 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 68 points).
-  - Author/Reporter: davikr
-  - Resource Link: https://momo5502.com/posts/2026-10-09-game-decompilation/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50039092
+### Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 14 points).
+  - Author/Reporter: cagster
+  - Resource Link: https://github.com/plimsollmark/plimsoll
+  - Discussion Thread: https://news.ycombinator.com/item?id=50049388
 
