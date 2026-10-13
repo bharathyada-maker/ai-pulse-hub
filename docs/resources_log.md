@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 13 October [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-10-13
+
 ### Daily AI updates 12 October  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-10-09
 
-### Daily AI Updates 8 October  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-10-08
+### Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 158 points).
+  - Author/Reporter: hurricanepootis
+  - Resource Link: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html
+  - Discussion Thread: https://news.ycombinator.com/item?id=50063365
 
-### The gap in shared understanding of LLM capability is widening [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 364 points).
-  - Author/Reporter: albertzeyer
-  - Resource Link: https://twitter.com/karpathy/status/2109361546505966046
-  - Discussion Thread: https://news.ycombinator.com/item?id=50047422
-
-### Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 14 points).
-  - Author/Reporter: cagster
-  - Resource Link: https://github.com/plimsollmark/plimsoll
-  - Discussion Thread: https://news.ycombinator.com/item?id=50049388
+### Threat of AI share crash puts world financial stability at risk, says IMF [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 20 points).
+  - Author/Reporter: novaRom
+  - Resource Link: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
+  - Discussion Thread: https://news.ycombinator.com/item?id=50067356
 
