@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-10-09
 
-### Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 158 points).
-  - Author/Reporter: hurricanepootis
-  - Resource Link: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html
-  - Discussion Thread: https://news.ycombinator.com/item?id=50063365
+### I built a tool to track what AI leaders say and how their views change on video [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 44 points).
+  - Author/Reporter: gcsydney
+  - Resource Link: https://blumify.io/people
+  - Discussion Thread: https://news.ycombinator.com/item?id=50081151
 
-### Threat of AI share crash puts world financial stability at risk, says IMF [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 20 points).
-  - Author/Reporter: novaRom
-  - Resource Link: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
-  - Discussion Thread: https://news.ycombinator.com/item?id=50067356
+### I posted to HN, and then my website was flooded with AI bot traffic [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 288 points).
+  - Author/Reporter: sammy0910
+  - Resource Link: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic
+  - Discussion Thread: https://news.ycombinator.com/item?id=50073221
 
