@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-10-15
 
-### DeepSeek-v4.1-Flash-1017 [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 754 points).
-  - Author/Reporter: theykk
-  - Resource Link: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
-  - Discussion Thread: https://news.ycombinator.com/item?id=50129045
+### Hybrid Reasoning Agents: LLM agents that think in latent space, act through text [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 277 points).
+  - Author/Reporter: allinonai
+  - Resource Link: https://arxiv.org/abs/2610.18861
+  - Discussion Thread: https://news.ycombinator.com/item?id=50145337
 
-### You could have invented transformers from memory [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 518 points).
-  - Author/Reporter: speckx
-  - Resource Link: https://alexwang.ai/posts/associative-memory/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50122878
+### If you don't run your own LLM proxy, how do you know whats going on? [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 78 points).
+  - Author/Reporter: amrrs
+  - Resource Link: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50145507
 
