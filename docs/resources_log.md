@@ -2,6 +2,18 @@
 
 Latest sync items:
 
+### Daily AI Updates 21 october  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-10-21
+
+### Build your own Jarvis  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-10-21
+
 ### Daily AI updates 19 October  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -14,27 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-10-17
 
-### Daily AI updates  17 October  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-10-17
+### Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 460 points).
+  - Author/Reporter: abhisek
+  - Resource Link: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50181114
 
-### Daily AI updates 16 October [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-10-16
-
-### DeepInfer: High-performance inference framework for DeepSeek models [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 2179 points).
-  - Author/Reporter: ggcr
-  - Resource Link: https://github.com/deepseek-ai/DeepInfer
-  - Discussion Thread: https://news.ycombinator.com/item?id=50163277
-
-### Benchmarking Bot Detection Systems Against Modern AI Agents in 2026 [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 36 points).
-  - Author/Reporter: mdahardy
-  - Resource Link: https://research.poh.org/bot-benchmarking-2026/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50169506
+### Using LLM for confidence scoring is a bad idea [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 28 points).
+  - Author/Reporter: jimauthors
+  - Resource Link: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html
+  - Discussion Thread: https://news.ycombinator.com/item?id=50176082
 
