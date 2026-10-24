@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 23 October  [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-10-23
+
 ### Daily AI updates 22 October [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-10-21
 
-### Daily AI updates 19 October  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-10-19
+### Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies? [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 602 points).
+  - Author/Reporter: ex-aws-dude
+  - Resource Link: https://news.ycombinator.com/item?id=50200997
+  - Discussion Thread: https://news.ycombinator.com/item?id=50200997
 
-### LLMs are making formal software verification feasible at a much larger scale [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 200 points).
-  - Author/Reporter: johnbender
-  - Resource Link: https://www.anthropic.com/research/formal-verification
-  - Discussion Thread: https://news.ycombinator.com/item?id=50202217
-
-### OpenShell – A safe, private runtime for fleets of autonomous AI agents [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 335 points).
-  - Author/Reporter: niemandhier
-  - Resource Link: https://github.com/NVIDIA/OpenShell
-  - Discussion Thread: https://news.ycombinator.com/item?id=50198675
+### Every AI model has the same "controversial" take on humans [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 619 points).
+  - Author/Reporter: rakannimer
+  - Resource Link: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans
+  - Discussion Thread: https://news.ycombinator.com/item?id=50197313
 
