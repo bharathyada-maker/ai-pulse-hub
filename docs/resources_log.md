@@ -26,15 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-10-21
 
-### Cerebras Deploys Trillion-Parameter AI Models [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 38 points).
-  - Author/Reporter: gmays
-  - Resource Link: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
-  - Discussion Thread: https://news.ycombinator.com/item?id=50227356
+### If AI displaces human workers, they will lose more than just pay [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 16 points).
+  - Author/Reporter: andsoitis
+  - Resource Link: https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay
+  - Discussion Thread: https://news.ycombinator.com/item?id=50238351
 
-### Neural chip decodes interactions between brain regions [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 97 points).
-  - Author/Reporter: giuliomagnifico
-  - Resource Link: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50222525
+### Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 17 points).
+  - Author/Reporter: lumbroso
+  - Resource Link: https://adrs.systems
+  - Discussion Thread: https://news.ycombinator.com/item?id=50227041
 
