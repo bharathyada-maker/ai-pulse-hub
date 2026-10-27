@@ -2,6 +2,12 @@
 
 Latest sync items:
 
+### Daily AI updates 26 October [AI Dispatch]
+* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
+  - Vetted and curated directly from the Staying Ahead community library.
+  - Optimized prompt templates and implementation blueprints included.
+  - Published: 2026-10-26
+
 ### Daily AI updates 24 October  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
@@ -20,21 +26,15 @@ Latest sync items:
   - Optimized prompt templates and implementation blueprints included.
   - Published: 2026-10-22
 
-### Daily AI Updates 21 october  [AI Dispatch]
-* Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
-  - Vetted and curated directly from the Staying Ahead community library.
-  - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-10-21
+### Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses) [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 100 points).
+  - Author/Reporter: wondersky
+  - Resource Link: https://blog.cloudflare.com/kv-cache-exposure-remediation/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50252159
 
-### If AI displaces human workers, they will lose more than just pay [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 16 points).
-  - Author/Reporter: andsoitis
-  - Resource Link: https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay
-  - Discussion Thread: https://news.ycombinator.com/item?id=50238351
-
-### Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 17 points).
-  - Author/Reporter: lumbroso
-  - Resource Link: https://adrs.systems
-  - Discussion Thread: https://news.ycombinator.com/item?id=50227041
+### GPT-6.1 Terra [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 551 points).
+  - Author/Reporter: meetpateltech
+  - Resource Link: https://openai.com/index/introducing-gpt-6-1-terra/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50248124
 
