@@ -2,39 +2,39 @@
 
 Latest sync items:
 
-### The AI Career Playbook [AI Dispatch]
+### Daily AI updates 28 October  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-21
+  - Published: 2026-10-28
 
-### Free Vs Paid AI Tool [AI Dispatch]
+### Daily AI updates 27 October  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-21
+  - Published: 2026-10-27
 
-### Daily AI Updates - 20 August [AI Dispatch]
+### Daily AI updates 26 October [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-20
+  - Published: 2026-10-26
 
-### Daily AI Update - 19 August [AI Dispatch]
+### Daily AI updates 24 October  [AI Dispatch]
 * Vetted cheat sheet and prompting workbook compiled by the Staying Ahead community.
   - Vetted and curated directly from the Staying Ahead community library.
   - Optimized prompt templates and implementation blueprints included.
-  - Published: 2026-08-19
+  - Published: 2026-10-24
 
-### NanoGPT Speedrun Frontier [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 44 points).
-  - Author/Reporter: stared
-  - Resource Link: https://www.primeintellect.ai/research/nanogpt-speedrun
-  - Discussion Thread: https://news.ycombinator.com/item?id=49404380
+### Bernstein – open-source governance layer for AI agents [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 7 points).
+  - Author/Reporter: ankitg12
+  - Resource Link: https://bernstein.run
+  - Discussion Thread: https://news.ycombinator.com/item?id=50285177
 
-### Why your local LLM feels dumber than it is [Trending Tech]
-* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 181 points).
-  - Author/Reporter: felineflock
-  - Resource Link: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
-  - Discussion Thread: https://news.ycombinator.com/item?id=49402232
+### Claude Code regularly sends each background agent’s transcript to its model [Trending Tech]
+* Trending AI development, research paper, or codebase launch popular on Hacker News (Score: 253 points).
+  - Author/Reporter: NikZaal
+  - Resource Link: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
+  - Discussion Thread: https://news.ycombinator.com/item?id=50284255
 
