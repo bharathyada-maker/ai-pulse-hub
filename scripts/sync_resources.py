@@ -90,7 +90,7 @@ def fetch_hackernews_ai_resources():
                     story = json.loads(resp_story.read().decode('utf-8'))
                     title = story.get('title', '')
                     
-                    if any(kw in title.lower() for kw in [' ai ', 'llm', 'gpt', 'openai', 'claude', 'deepseek', 'agent', 'model', 'neural', 'weights']):
+                    if any(kw in title.lower() for kw in [' ai ', 'agi', 'asi', 'dots', 'agent', 'bot', 'coworker', 'reasoning', 'deepseek', 'mariner', 'llm', 'gpt', 'openai', 'claude', 'qwen', 'superintelligence', 'weights']):
                         link = story.get('url', f"https://news.ycombinator.com/item?id={story_id}")
                         score = story.get('score', 0)
                         author = story.get('by', 'HN Community')
@@ -177,12 +177,34 @@ def main():
         print("No live resources fetched. Using open technical playbooks fallback...")
         combined_res = [
             {
-                'title': 'Setup Guide: Claude Code CLI',
-                'category': 'CLI Agent',
-                'description': 'Configure Anthropic\'s terminal agent, Claude Code, to run recursively inside local developer environments using open-weights or direct model endpoints.',
+                'title': 'Persistent Cloud Bots: OpenAI Dots & Asynchronous Architecture',
+                'category': 'Persistent Bots',
+                'description': 'Architect persistent, always-on AI agents operating inside dedicated virtual cloud sandboxes capable of multi-day task continuity, 4,000+ app connectors, and proactive check-ins.',
+                'bullets': [
+                    'Cloud VM Sandbox: Provision isolated headless browser and execution containers for persistent task state.',
+                    'Asynchronous Event Loops: Implement webhooks and polling queues to allow the bot to work while user laptops are closed.',
+                    'Approval Gateways: Configure human-in-the-loop notifications in Slack/Teams before executing state-changing transactions.'
+                ],
+                'icon': 'sparkles'
+            },
+            {
+                'title': 'AGI & Test-Time Compute: Scaling System 2 Reasoning',
+                'category': 'Reasoning & AGI',
+                'description': 'Harness test-time compute scaling laws (DeepSeek-R1 & OpenAI o3-mini) using Monte Carlo tree search, internal reflection, and rule-based verification.',
+                'bullets': [
+                    'Inference Scaling: Allocate dynamic token thinking budgets based on question complexity to exceed pre-training ceilings.',
+                    'Rule-Based Verification: Train reinforcement learning models on deterministic STEM and code verification without human labels.',
+                    'Superalignment Guardrails: Implement attention monitors and sandbox barriers to audit extended reasoning traces.'
+                ],
+                'icon': 'cpu'
+            },
+            {
+                'title': 'Setup Guide: Claude Code CLI & OS Computer Use',
+                'category': 'CLI & OS Agent',
+                'description': 'Configure Anthropic\'s terminal agent, Claude Code, and desktop Computer Use agents to navigate codebases and native desktop software.',
                 'bullets': [
                     'Install via npm: npm install -g @anthropic-ai/claude-code',
-                    'Routing: Route through LiteLLM or local Ollama proxy endpoints to utilize open-source weights.',
+                    'Desktop Navigation: Expose sandboxed virtual display frames for autonomous GUI inspection and cursor actions.',
                     'Productivity: Utilize slash commands /search (regex search), /explain (code analysis), and /compact (history trim).'
                 ],
                 'icon': 'terminal'
@@ -197,17 +219,6 @@ def main():
                     'Negative Filtering: Consolidate exclusion rules at the end of the prompt sequence for minimal token cost.'
                 ],
                 'icon': 'coins'
-            },
-            {
-                'title': 'Local Open-Weights Serving Pipeline (DeepSeek & vLLM)',
-                'category': 'Inference Serving',
-                'description': 'Deploy DeepSeek-R1 / Qwen 2.5-Coder on commodity consumer GPUs using quantized FP8/AWQ weights and continuous batching.',
-                'bullets': [
-                    'vLLM Engine: Serve with vLLM for high-throughput PagedAttention and tensor parallelism across GPUs.',
-                    'Ollama Run: One-click local serving via ollama run deepseek-r1:8b or qwen2.5-coder:7b.',
-                    'Context Window: Utilize flash-attention-2 to handle up to 64k context windows within standard VRAM limits.'
-                ],
-                'icon': 'cpu'
             }
         ]
         

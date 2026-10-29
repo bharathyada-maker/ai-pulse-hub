@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2610.37657v1
   - Indexed: 2026-10-27 (Public Domain Open Preprint)
 
+### Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5 [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 344 points).
+  - Contributor: csmantle
+  - Resource Link: https://divagr.com/blog/qwenputer
+  - Discussion Thread: https://news.ycombinator.com/item?id=50282838
+
 ### Claude Code regularly sends each background agent’s transcript to its model [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 268 points).
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 285 points).
   - Contributor: NikZaal
   - Resource Link: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
   - Discussion Thread: https://news.ycombinator.com/item?id=50284255
-
-### OpenAI's agents talked to each other through the CPU Cache [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 70 points).
-  - Contributor: limbicsystem
-  - Resource Link: https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50251200
 

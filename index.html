@@ -1564,6 +1564,130 @@
                     </div>
                 </div>
 
+                <!-- ======================================================== -->
+                <!-- FRONTIER HORIZON: AI ➔ AGI ➔ ASI TRAJECTORY & BOTS MATRIX -->
+                <!-- ======================================================== -->
+                <div class="cyber-card p-6 md:p-8 rounded-3xl space-y-6 relative overflow-hidden border border-amber-500/25 bg-gradient-to-br from-slate-950 via-[#0d091a] to-slate-950 shadow-xl">
+                    <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-4 border-b border-slate-800/80 pb-5">
+                        <div class="space-y-1.5">
+                            <div class="flex items-center gap-2 flex-wrap">
+                                <span class="bg-gradient-to-r from-amber-500/20 to-indigo-500/20 text-amber-400 border border-amber-500/30 font-mono text-[9px] font-bold tracking-wider uppercase px-2.5 py-0.5 rounded-full flex items-center gap-1.5">
+                                    <span class="w-1.5 h-1.5 rounded-full bg-emerald-450 animate-ping"></span> Live Frontier Roadmap
+                                </span>
+                                <span class="bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 font-mono text-[9px] font-bold px-2.5 py-0.5 rounded-full">
+                                    Active Stage: Level 3 (Persistent Bots &amp; Coworkers)
+                                </span>
+                            </div>
+                            <h3 class="text-xl md:text-2xl font-extrabold text-white tracking-tight flex items-center gap-2">
+                                <i data-lucide="compass" class="w-6 h-6 text-amber-400"></i>
+                                AI ➔ AGI ➔ ASI Intelligence Trajectory
+                            </h3>
+                            <p class="text-xs text-slate-400 font-light leading-relaxed max-w-2xl">
+                                Track the continuous evolution of synthetic intelligence from task-specific narrow models to persistent autonomous coworkers (OpenAI Dots, Claude Computer Use) and the horizon toward Artificial General Intelligence (AGI) and Superintelligence (ASI).
+                            </p>
+                        </div>
+                        <div class="flex items-center gap-2 shrink-0">
+                            <button onclick="syncLiveFrontierIntel(true)" id="btnSyncFrontier" class="bg-slate-900 hover:bg-slate-800 text-amber-400 border border-amber-500/30 text-[10px] font-mono font-bold px-3 py-2 rounded-xl transition-all flex items-center gap-1.5 cursor-pointer shadow-xs">
+                                <i data-lucide="refresh-cw" class="w-3.5 h-3.5" id="syncFrontierIcon"></i> Refresh Live Frontier Stream
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- 5-Tier Level Stepper -->
+                    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-2.5" id="frontierLevelNav">
+                        <!-- Level 1 -->
+                        <button onclick="setAgiAsiLevel(1)" id="btn-agi-lvl-1" class="agi-level-btn p-3 rounded-2xl border text-left transition-all cursor-pointer bg-slate-900/60 border-slate-800 hover:border-amber-500/30">
+                            <div class="flex items-center justify-between text-[10px] font-mono text-slate-400 mb-1">
+                                <span>LEVEL 01</span>
+                                <i data-lucide="message-square" class="w-3.5 h-3.5 text-slate-500"></i>
+                            </div>
+                            <h4 class="text-xs font-bold text-white">Narrow AI</h4>
+                            <p class="text-[9px] text-slate-400 mt-0.5">Task tools &amp; Chatbots</p>
+                            <span class="inline-block mt-2 text-[8px] font-mono px-1.5 py-0.5 rounded bg-slate-800 text-slate-400">Established</span>
+                        </button>
+
+                        <!-- Level 2 -->
+                        <button onclick="setAgiAsiLevel(2)" id="btn-agi-lvl-2" class="agi-level-btn p-3 rounded-2xl border text-left transition-all cursor-pointer bg-slate-900/60 border-slate-800 hover:border-amber-500/30">
+                            <div class="flex items-center justify-between text-[10px] font-mono text-slate-400 mb-1">
+                                <span>LEVEL 02</span>
+                                <i data-lucide="cpu" class="w-3.5 h-3.5 text-slate-500"></i>
+                            </div>
+                            <h4 class="text-xs font-bold text-white">Reasoners</h4>
+                            <p class="text-[9px] text-slate-400 mt-0.5">System 2 Compute</p>
+                            <span class="inline-block mt-2 text-[8px] font-mono px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">Production</span>
+                        </button>
+
+                        <!-- Level 3 (ACTIVE 2026) -->
+                        <button onclick="setAgiAsiLevel(3)" id="btn-agi-lvl-3" class="agi-level-btn p-3 rounded-2xl border text-left transition-all cursor-pointer bg-amber-500/15 border-amber-500/50 shadow-sm relative">
+                            <span class="absolute -top-1 -right-1 w-2.5 h-2.5 bg-amber-500 rounded-full animate-ping"></span>
+                            <div class="flex items-center justify-between text-[10px] font-mono text-amber-400 mb-1">
+                                <span>LEVEL 03</span>
+                                <i data-lucide="bot" class="w-3.5 h-3.5 text-amber-400"></i>
+                            </div>
+                            <h4 class="text-xs font-bold text-amber-300">Persistent Bots</h4>
+                            <p class="text-[9px] text-amber-400/80 mt-0.5">OpenAI Dots &amp; Agents</p>
+                            <span class="inline-block mt-2 text-[8px] font-mono px-1.5 py-0.5 rounded bg-amber-500 text-slate-950 font-bold">2026 ACTIVE</span>
+                        </button>
+
+                        <!-- Level 4 -->
+                        <button onclick="setAgiAsiLevel(4)" id="btn-agi-lvl-4" class="agi-level-btn p-3 rounded-2xl border text-left transition-all cursor-pointer bg-slate-900/60 border-slate-800 hover:border-amber-500/30">
+                            <div class="flex items-center justify-between text-[10px] font-mono text-slate-400 mb-1">
+                                <span>LEVEL 04</span>
+                                <i data-lucide="sparkles" class="w-3.5 h-3.5 text-slate-500"></i>
+                            </div>
+                            <h4 class="text-xs font-bold text-white">Innovator AGI</h4>
+                            <p class="text-[9px] text-slate-400 mt-0.5">Autonomous Discovery</p>
+                            <span class="inline-block mt-2 text-[8px] font-mono px-1.5 py-0.5 rounded bg-indigo-500/10 text-indigo-400 border border-indigo-500/20">Near Horizon</span>
+                        </button>
+
+                        <!-- Level 5 -->
+                        <button onclick="setAgiAsiLevel(5)" id="btn-agi-lvl-5" class="agi-level-btn p-3 rounded-2xl border text-left transition-all cursor-pointer bg-slate-900/60 border-slate-800 hover:border-amber-500/30">
+                            <div class="flex items-center justify-between text-[10px] font-mono text-slate-400 mb-1">
+                                <span>LEVEL 05</span>
+                                <i data-lucide="orbit" class="w-3.5 h-3.5 text-slate-500"></i>
+                            </div>
+                            <h4 class="text-xs font-bold text-white">ASI Superintel</h4>
+                            <p class="text-[9px] text-slate-400 mt-0.5">Trans-Human Systems</p>
+                            <span class="inline-block mt-2 text-[8px] font-mono px-1.5 py-0.5 rounded bg-rose-500/10 text-rose-400 border border-rose-500/20">Superalignment</span>
+                        </button>
+                    </div>
+
+                    <!-- Level Details Dynamic Container -->
+                    <div id="agiLevelDetailCard" class="bg-slate-950/70 border border-slate-800/80 rounded-2xl p-5 md:p-6 space-y-4">
+                        <!-- Populated dynamically via setAgiAsiLevel() -->
+                    </div>
+
+                    <!-- Persistent Bots & Digital Coworkers Showcase Section -->
+                    <div class="pt-2 space-y-3">
+                        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-1">
+                            <div class="flex items-center gap-2">
+                                <i data-lucide="bot" class="w-4 h-4 text-amber-400"></i>
+                                <h4 class="text-sm font-bold text-white">Persistent Autonomous Bots &amp; Digital Coworkers Directory</h4>
+                            </div>
+                            <span class="text-[10px] font-mono text-slate-500">Dedicated Virtual Cloud Runtimes &amp; App Connectors</span>
+                        </div>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="persistentBotsGrid">
+                            <!-- Bot Cards populated dynamically -->
+                        </div>
+                    </div>
+
+                    <!-- Live Dynamic Frontier Intelligence Ticker -->
+                    <div class="bg-slate-950 border border-slate-800/70 rounded-2xl p-4 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 text-xs">
+                        <div class="flex items-center gap-2.5">
+                            <span class="w-2.5 h-2.5 rounded-full bg-emerald-450 animate-pulse shrink-0"></span>
+                            <span class="font-mono text-amber-400 font-bold text-[10px] uppercase shrink-0">Live Frontier Signal:</span>
+                            <p id="liveFrontierTicker" class="text-slate-300 font-light text-[11px] leading-relaxed">
+                                Scanning public domain arXiv preprints and Hacker News for breaking persistent bot releases and AGI reasoning benchmarks...
+                            </p>
+                        </div>
+                        <div class="flex items-center gap-2 shrink-0">
+                            <span id="frontierLastSyncBadge" class="text-[9px] font-mono text-slate-500">Synced: Just now</span>
+                        </div>
+                    </div>
+                </div>
+
+
+
                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
                     <div class="lg:col-span-2 cyber-card p-6 flex flex-col justify-between">
                         <div class="space-y-4">
@@ -1605,7 +1729,7 @@
                                 <div class="space-y-2 mt-4 text-xs">
                                     <div class="bg-slate-950 p-2.5 rounded-xl border border-slate-800/40 flex justify-between items-center">
                                         <span class="text-slate-400">Total Curated Catalog</span>
-                                        <strong id="telemetryPlatformCount" class="text-white font-mono">133 Platforms</strong>
+                                        <strong id="telemetryPlatformCount" class="text-white font-mono">138 Platforms</strong>
                                     </div>
                                     <div class="bg-slate-950 p-2.5 rounded-xl border border-slate-800/40 flex justify-between items-center">
                                         <span class="text-slate-400">Functional Wiki Arenas</span>
@@ -2731,6 +2855,23 @@
                                 <li>Indexed: 2026-10-27 (Public Domain Open Preprint)</li>
                             </ul>
                         </div>
+                        <!-- Auto-generated Card: Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5 -->
+                        <div class="cyber-card p-5 rounded-2xl space-y-3">
+                            <div class="flex justify-between items-start">
+                                <h4 class="text-sm font-bold text-slate-900 dark:text-white flex items-center gap-2">
+                                    <i data-lucide="trending-up" class="w-4 h-4 text-amber-400"></i> Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+                                </h4>
+                                <span class="bg-amber-500/10 text-amber-500 border border-amber-500/20 text-[8px] font-mono font-bold px-2 py-0.5 rounded-full uppercase">Open Tech</span>
+                            </div>
+                            <p class="text-xs text-slate-600 dark:text-slate-400 leading-relaxed font-light">
+                                Public domain technical development, open repository, or community discussion on Hacker News (Score: 344 points).
+                            </p>
+                            <ul class="text-xs text-slate-600 dark:text-slate-400 list-disc pl-5 space-y-1.5 font-light">
+                                <li>Contributor: csmantle</li>
+                                <li>Resource Link: <a href="https://divagr.com/blog/qwenputer" target="_blank" rel="noopener" class="text-amber-500 hover:underline inline-flex items-center gap-0.5 font-medium">https://divagr.com/blog/qwenputer <i data-lucide="external-link" class="w-3 h-3 inline"></i></a></li>
+                                <li>Discussion Thread: <a href="https://news.ycombinator.com/item?id=50282838" target="_blank" rel="noopener" class="text-amber-500 hover:underline inline-flex items-center gap-0.5 font-medium">https://news.ycombinator.com/item?id=50282838 <i data-lucide="external-link" class="w-3 h-3 inline"></i></a></li>
+                            </ul>
+                        </div>
                         <!-- Auto-generated Card: Claude Code regularly sends each background agent’s transcript to its model -->
                         <div class="cyber-card p-5 rounded-2xl space-y-3">
                             <div class="flex justify-between items-start">
@@ -2740,29 +2881,12 @@
                                 <span class="bg-amber-500/10 text-amber-500 border border-amber-500/20 text-[8px] font-mono font-bold px-2 py-0.5 rounded-full uppercase">Open Tech</span>
                             </div>
                             <p class="text-xs text-slate-600 dark:text-slate-400 leading-relaxed font-light">
-                                Public domain technical development, open repository, or community discussion on Hacker News (Score: 268 points).
+                                Public domain technical development, open repository, or community discussion on Hacker News (Score: 285 points).
                             </p>
                             <ul class="text-xs text-slate-600 dark:text-slate-400 list-disc pl-5 space-y-1.5 font-light">
                                 <li>Contributor: NikZaal</li>
                                 <li>Resource Link: <a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce" target="_blank" rel="noopener" class="text-amber-500 hover:underline inline-flex items-center gap-0.5 font-medium">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce <i data-lucide="external-link" class="w-3 h-3 inline"></i></a></li>
                                 <li>Discussion Thread: <a href="https://news.ycombinator.com/item?id=50284255" target="_blank" rel="noopener" class="text-amber-500 hover:underline inline-flex items-center gap-0.5 font-medium">https://news.ycombinator.com/item?id=50284255 <i data-lucide="external-link" class="w-3 h-3 inline"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Auto-generated Card: OpenAI&#x27;s agents talked to each other through the CPU Cache -->
-                        <div class="cyber-card p-5 rounded-2xl space-y-3">
-                            <div class="flex justify-between items-start">
-                                <h4 class="text-sm font-bold text-slate-900 dark:text-white flex items-center gap-2">
-                                    <i data-lucide="trending-up" class="w-4 h-4 text-amber-400"></i> OpenAI&#x27;s agents talked to each other through the CPU Cache
-                                </h4>
-                                <span class="bg-amber-500/10 text-amber-500 border border-amber-500/20 text-[8px] font-mono font-bold px-2 py-0.5 rounded-full uppercase">Open Tech</span>
-                            </div>
-                            <p class="text-xs text-slate-600 dark:text-slate-400 leading-relaxed font-light">
-                                Public domain technical development, open repository, or community discussion on Hacker News (Score: 70 points).
-                            </p>
-                            <ul class="text-xs text-slate-600 dark:text-slate-400 list-disc pl-5 space-y-1.5 font-light">
-                                <li>Contributor: limbicsystem</li>
-                                <li>Resource Link: <a href="https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/" target="_blank" rel="noopener" class="text-amber-500 hover:underline inline-flex items-center gap-0.5 font-medium">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/ <i data-lucide="external-link" class="w-3 h-3 inline"></i></a></li>
-                                <li>Discussion Thread: <a href="https://news.ycombinator.com/item?id=50251200" target="_blank" rel="noopener" class="text-amber-500 hover:underline inline-flex items-center gap-0.5 font-medium">https://news.ycombinator.com/item?id=50251200 <i data-lucide="external-link" class="w-3 h-3 inline"></i></a></li>
                             </ul>
                         </div>
                         <!-- END_PUBLIC_AI_RESOURCES -->
@@ -3117,7 +3241,12 @@
             { id: 'openaio3', name: 'OpenAI o3-mini Reasoning Engine', category: 'Coding', useCase: 'High-speed, cost-efficient STEM, coding, and mathematical reasoning model featuring configurable low/medium/high reasoning effort tiers with structured output and function calling.', price: 'ChatGPT Plus / Team / API Metering', prompt: 'Produce an optimized C++ implementation for this dynamic programming graph algorithm with O(V+E) time.', risk: 'High reasoning effort tiers introduce added token latency; calibrate effort to problem depth.', source: 'https://openai.com' },
             { id: 'qwencoder', name: 'Qwen 2.5-Coder 32B (Alibaba)', category: 'Coding', useCase: 'Alibaba open-source state-of-the-art coding intelligence supporting 92+ programming languages, 128k context length, and full repository codebase comprehension.', price: 'Free Open-Weights / Qwen Cloud API', prompt: 'Audit this 500-line React component tree for memory leaks, stale closures, and redundant re-renders.', risk: '32B parameter local execution requires minimum 20GB VRAM for quantized GPU acceleration.', source: 'https://chat.qwenlm.ai' },
             { id: 'claude37', name: 'Claude 3.7 Sonnet & Hybrid Reasoning', category: 'Coding', useCase: 'First hybrid reasoning frontier model enabling instantaneous switching between rapid generation and extended thinking mode, paired with automated Computer Use agent actions.', price: 'Free Tier / $20 Pro / API Token Metering', prompt: 'Enable extended thinking to prove correctness and edge-case resilience for this concurrent state machine.', risk: 'Extended thinking mode consumes higher token budgets; establish hard output token limits.', source: 'https://claude.ai' },
-            { id: 'gemini2flash', name: 'Google Gemini 2.0 Flash', category: 'Assistant', useCase: 'Next-generation multimodal intelligence offering real-time native audio/video streaming, high-speed tool use, multimodal live API, and 1M token context capacity.', price: 'Free Quotas / Google AI Studio API', prompt: 'Process this 40-page technical engineering schematic, extract electrical specs, and flag safety discrepancies.', risk: 'Real-time bidirectional audio/video sessions require steady high-bandwidth network connectivity.', source: 'https://aistudio.google.com' }
+            { id: 'gemini2flash', name: 'Google Gemini 2.0 Flash', category: 'Assistant', useCase: 'Next-generation multimodal intelligence offering real-time native audio/video streaming, high-speed tool use, multimodal live API, and 1M token context capacity.', price: 'Free Quotas / Google AI Studio API', prompt: 'Process this 40-page technical engineering schematic, extract electrical specs, and flag safety discrepancies.', risk: 'Real-time bidirectional audio/video sessions require steady high-bandwidth network connectivity.', source: 'https://aistudio.google.com' },
+            { id: 'openaidots', name: 'OpenAI Dots (Persistent Cloud Agents)', category: 'Agents', useCase: 'Class of persistent, always-on AI agents operating on dedicated virtual cloud computers and browsers. Powered by frontier intelligence with 4,000+ app connectors, proactive asynchronous check-ins, and collaborative ChatGPT Spaces.', price: 'ChatGPT Pro / Business Premium / Enterprise', prompt: 'Set up a persistent Dot to monitor competitor pricing changes across 15 SaaS landing pages daily and compile a weekly delta report in our shared Space.', risk: 'Always-on cloud execution requires granular permission scopes when linking sensitive business applications.', source: 'https://openai.com' },
+            { id: 'claudecomputeruse', name: 'Anthropic Claude Computer Use', category: 'Agents', useCase: 'Autonomous OS-level desktop automation agent capable of looking at screens, moving cursors, clicking buttons, and typing across native desktop software applications.', price: 'API Token Metering / Claude Pro & Team', prompt: 'Navigate to our internal CRM dashboard, locate invoices marked unpaid older than 30 days, download their PDFs, and log them into Excel.', risk: 'Granting raw OS screen and cursor control requires sandboxed virtual machines to prevent accidental system changes.', source: 'https://www.anthropic.com' },
+            { id: 'googlemariner', name: 'Google Project Mariner (DeepMind Browser Agent)', category: 'Agents', useCase: 'Google DeepMind autonomous browser agent designed to navigate the live open web, handle complex multi-step SaaS transactions, and extract structured web intelligence.', price: 'Preview Access / Google Cloud Vertex AI', prompt: 'Search for flight and hotel logistics matching our conference dates across 4 travel sites, compare refund policies, and generate an itinerary comparison.', risk: 'Autonomous web checkout and forms require human verification before executing financial transactions.', source: 'https://deepmind.google' },
+            { id: 'metamuse', name: 'Meta Muse Agent', category: 'Agents', useCase: 'Autonomous life-admin and multimodal personal agent orchestrating communication, schedules, smart device workflows, and real-time audio/vision reasoning.', price: 'Free Preview / Meta AI Ecosystem', prompt: 'Synthesize audio recordings from our project standup, draft personalized action checklists for each member, and schedule calendar milestones.', risk: 'Verify calendar schedule updates before broadcasting automated meeting invitations.', source: 'https://ai.meta.com' },
+            { id: 'copilotactions', name: 'Microsoft Copilot Autonomous Actions', category: 'Agents', useCase: 'Persistent enterprise background bots designed to execute repetitive business workflows, cross-system ERP synchronization, and automated IT ticketing loops.', price: 'Microsoft 365 Copilot Enterprise', prompt: 'Run an autonomous background loop every Friday to reconcile pending contractor timesheets with Jira sprint logs and flag variances.', risk: 'Require managerial approval gates for workflows modifying core financial database records.', source: 'https://copilot.microsoft.com' },
         ];
 
         const ATLAS_DATA = [
@@ -3185,7 +3314,9 @@
             { title: '[DeskJobs] Remote AI Operations Analyst', effort: 'Low (Guideline matching review)', time: '2 - 4 days matching', ceiling: '$22 - $42 / hr', action: 'Review and evaluate model output benchmarks, API call error logs, and data annotation workflows on DeskJobs portal.', risk: 'Double check local billing data before committing invoice structures.', link: 'https://deskjobs.co' },
             { title: 'AI Tutor & Prompts Editor', effort: 'Medium (Writing evaluation tests)', time: '3 - 5 days screening', ceiling: '$20 - $45 / hr', action: 'Write prompts, evaluate response guidelines, and edit chatbot replies in natural language.', risk: 'Requires strong editorial skills and consistent reasoning paths.', link: 'https://mindrift.ai' },
             { title: 'DeepSeek & Open-Weights Optimization Engineer', effort: 'High (vLLM, Ollama & quantization proficiency)', time: '1 - 3 days matching', ceiling: '$65 - $135 / hr', action: 'Deploy, quantize, and fine-tune DeepSeek-R1 / V3 and Qwen models for on-premise enterprise clusters using Ollama, vLLM, and SGLang.', risk: 'Verify hardware VRAM cluster requirements before quoting fixed-price deployments.', link: 'https://www.upwork.com' },
-            { title: '[Upwork] Autonomous Agent Architect (LangGraph & CrewAI)', effort: 'Medium (Agentic workflows & tool integration)', time: '2 - 4 days bidding', ceiling: '$55 - $120 / hr', action: 'Design and deploy multi-agent swarms with human-in-the-loop validation, browser automation, and persistent memory.', risk: 'Agent loops must include recursion limits and token kill-switches to prevent runaway bills.', link: 'https://www.upwork.com' }
+            { title: '[Upwork] Autonomous Agent Architect (LangGraph & CrewAI)', effort: 'Medium (Agentic workflows & tool integration)', time: '2 - 4 days bidding', ceiling: '$55 - $120 / hr', action: 'Design and deploy multi-agent swarms with human-in-the-loop validation, browser automation, and persistent memory.', risk: 'Agent loops must include recursion limits and token kill-switches to prevent runaway bills.', link: 'https://www.upwork.com' },
+            { title: '[Upwork] OpenAI Dots & Cloud Bot Architect', effort: 'Medium (Agent connectors & workflow orchestration)', time: '1 - 3 days matching', ceiling: '$70 - $150 / hr', action: 'Configure persistent always-on OpenAI Dots, integrate 4,000+ app connectors, build shared ChatGPT Spaces, and establish asynchronous approval loops for enterprise workflows.', risk: 'Ensure OAuth credentials have scoped least-privilege permissions across connected business apps.', link: 'https://www.upwork.com' },
+            { title: 'AGI & Superalignment Governance Specialist', effort: 'High (System 2 evaluation & formal safety verification)', time: '3 - 7 days vetting', ceiling: '$85 - $175 / hr', action: 'Audit recursive reasoning models, test-time compute scaling safety guardrails, and agentic autonomy boundaries to prevent unintended autonomous actions or tool escalation.', risk: 'Requires comprehensive knowledge of formal alignment verification, sandbox isolation, and model red-teaming.', link: 'https://www.upwork.com' },
         ];
 
         // --- CORE STATE INFRASTRUCTURE ENGINE ---
@@ -6146,6 +6277,7 @@ Answer using this site data first. Format responses with bullet points, bold too
         
         // Always initialize mobile menu elements; CSS media query handles display
         initMobileMenu();
+        initAgiAsiFrontierHorizon();
         
         enhanceTabTransitions();
         
@@ -6160,6 +6292,321 @@ Answer using this site data first. Format responses with bullet points, bold too
         console.log('🚀 AI Pulse Hub Enhanced - All systems active!');
         console.log('✨ Real AI Integration: Enabled');
         console.log('📱 Mobile Optimizations: Active');
+
+    // ============================================================
+    // FRONTIER HORIZON: AI ➔ AGI ➔ ASI TRAJECTORY & PERSISTENT BOTS
+    // ============================================================
+    const AGI_ASI_LEVELS = [
+        {
+            level: 1,
+            name: "Level 1: Narrow Task & Conversational AI",
+            badge: "Foundation Standard (2020 - 2023)",
+            badgeColor: "bg-slate-800 text-slate-300 border-slate-700",
+            icon: "message-square",
+            summary: "Single-turn reactive pattern completion models, instruction-tuned LLMs, text-to-image diffusion, and task-specific classification pipelines. Operates entirely reactively upon receipt of prompt tokens with zero background agency.",
+            breakthrough: "Transformer self-attention architecture (Vaswani et al.), pre-training compute scaling laws, and Reinforcement Learning from Human Feedback (RLHF).",
+            models: "GPT-4o, Claude 3.5 Sonnet, Midjourney v6, Gemini 1.5 Pro, Llama 3.1",
+            compute: "Pre-training compute dominant (thousands of H100 clusters). Minimal inference-time reasoning.",
+            autonomy: "Zero persistent autonomy. Purely reactive request-response cycle.",
+            governance: "System prompt boundaries, safety classifiers, and static red-teaming checks."
+        },
+        {
+            level: 2,
+            name: "Level 2: Reasoners (System 2 & Test-Time Compute)",
+            badge: "Production Standard (2024 - 2025)",
+            badgeColor: "bg-emerald-500/15 text-emerald-400 border-emerald-500/30",
+            icon: "cpu",
+            summary: "Models capable of internal chain-of-thought, self-critique, backtracking, and Monte Carlo tree search. Solves complex mathematical proofs, competitive coding, and multi-step scientific logic by thinking deeply before answering.",
+            breakthrough: "Test-time compute scaling laws, rule-based reinforcement learning (RL) on ground-truth verification without human demonstration (DeepSeek-R1, OpenAI o1/o3-mini).",
+            models: "OpenAI o3-mini / o1, DeepSeek-R1, QwQ-32B, Claude 3.7 Extended Thinking",
+            compute: "Inference compute scaling: allocating more token budget during generation dramatically outperforms 10x pretraining compute.",
+            autonomy: "Cognitive autonomy during output generation; evaluates hypotheses before delivering final output.",
+            governance: "Hidden chain-of-thought auditing, preventing deceptive reasoning traces, sandboxed execution verification."
+        },
+        {
+            level: 3,
+            name: "Level 3: Persistent Bots & Autonomous Agents (Digital Coworkers)",
+            badge: "Active 2026 Frontier",
+            badgeColor: "bg-amber-500/20 text-amber-400 border-amber-500/40",
+            icon: "bot",
+            summary: "Always-on, persistent software agents operating inside dedicated cloud computers and virtual browser environments. Executes long-term multi-day projects, connects to thousands of external APIs, works asynchronously while you are offline, and proactively requests human decisions.",
+            breakthrough: "Virtual cloud machine isolation (OpenAI Dots), OS desktop computer vision & cursor control (Claude Computer Use), automated browser sandboxes (Google Project Mariner), and agentic protocols (Model Context Protocol - MCP).",
+            models: "OpenAI Dots (persistent cloud coworkers), Claude Computer Use, Google Project Mariner/Astra, Meta Muse, xAI Grok Bots, Manus AI",
+            compute: "Persistent cloud VM runtimes + hybrid reasoning models (GPT-6 Astra, Claude 3.7, DeepSeek-V3).",
+            autonomy: "Proactive, multi-day background task execution with asynchronous check-ins and self-directed cloud computer tool use.",
+            governance: "OAuth least-privilege scoping, human-in-the-loop transaction gates, token kill-switches, and container jail isolation."
+        },
+        {
+            level: 4,
+            name: "Level 4: Innovator AI & Artificial General Intelligence (AGI)",
+            badge: "Near Horizon (2026 - 2027)",
+            badgeColor: "bg-indigo-500/15 text-indigo-400 border-indigo-500/30",
+            icon: "sparkles",
+            summary: "Systems capable of generating novel human-level scientific hypotheses, autonomously running synthetic laboratory experiments, inventing patentable technological breakthroughs, and self-improving complex software codebases without human supervision.",
+            breakthrough: "Autonomous self-play in open-ended domains, automated scientific literature synthesis, recursive self-debugging, and neuro-symbolic theorem provers (AlphaProof, AlphaGeometry 2).",
+            models: "Google DeepMind AlphaProof/Astra, Frontier AGI Research Labs, Recursive Self-Refining Architectures",
+            compute: "Gigawatt-scale AI data centers, continuous synthetic data self-play loops, automated research compute clusters.",
+            autonomy: "Goal-directed multi-week autonomy across economically valuable scientific, engineering, and architectural work.",
+            governance: "Formal verification of model intentions, sandbox containment for biological/chemical synthesis, AGI treaty frameworks."
+        },
+        {
+            level: 5,
+            name: "Level 5: Artificial Superintelligence (ASI)",
+            badge: "Superalignment & Theoretical Horizon",
+            badgeColor: "bg-rose-500/15 text-rose-400 border-rose-500/30",
+            icon: "orbit",
+            summary: "Intelligence that dramatically surpasses human collective ability across all domains, including scientific discovery, geopolitical optimization, artistic creation, and recursive technological architecture redesign. Organizes planetary-scale multi-agent coordination.",
+            breakthrough: "Trans-human cognitive architectures, automated chip design, synthetic collective hive-minds, and post-human mathematical frameworks.",
+            models: "Theoretical Frontier ASI / Collective Superintelligent Swarms",
+            compute: "Planetary distributed compute grids, quantum-accelerated neural networks, space-based compute clusters.",
+            autonomy: "Full systemic self-direction across planetary-scale infrastructure.",
+            governance: "Mathematical superalignment proofs, formal verification layers (Bernstein governance), cryptographic capability locks, and international sovereign consensus."
+        }
+    ];
+
+    const PERSISTENT_BOTS_DATA = [
+        {
+            name: "OpenAI Dots",
+            provider: "OpenAI",
+            badge: "Persistent Cloud Coworker",
+            badgeColor: "bg-emerald-500/10 text-emerald-400 border-emerald-500/20",
+            runtime: "Dedicated Cloud Computer & Browser",
+            trigger: "Proactive Asynchronous (Works 24/7 in Background)",
+            connectors: "4,000+ App Integrations (Gmail, Slack, Teams, Jira)",
+            description: "Persistent, always-on AI digital coworkers operating on dedicated cloud VMs. Works asynchronously while your laptop is closed, organizes shared ChatGPT Spaces, and proactively pings you when decisions are needed.",
+            toolId: "openaidots",
+            url: "https://openai.com"
+        },
+        {
+            name: "Claude Computer Use",
+            provider: "Anthropic",
+            badge: "OS Desktop Agent",
+            badgeColor: "bg-amber-500/10 text-amber-400 border-amber-500/20",
+            runtime: "Native Desktop OS (Vision & Cursor)",
+            trigger: "Autonomous Screen & Software Navigation",
+            connectors: "Universal Desktop GUI Applications & Web",
+            description: "Autonomous OS-level desktop automation agent that looks at screen pixels, moves the mouse cursor, clicks UI elements, and types across native desktop applications.",
+            toolId: "claudecomputeruse",
+            url: "https://www.anthropic.com"
+        },
+        {
+            name: "Google Project Mariner & Astra",
+            provider: "DeepMind",
+            badge: "Universal Web Agent",
+            badgeColor: "bg-indigo-500/10 text-indigo-400 border-indigo-500/20",
+            runtime: "Autonomous Browser & Multimodal Core",
+            trigger: "Complex Multi-Step Web Transactions",
+            connectors: "Open Web SaaS & Google Workspace",
+            description: "DeepMind browser agent designed to navigate the open web, execute complex multi-step SaaS workflows, handle reservations/purchases, and synthesize real-time spatial vision.",
+            toolId: "googlemariner",
+            url: "https://deepmind.google"
+        },
+        {
+            name: "Meta Muse Agent",
+            provider: "Meta AI",
+            badge: "Personal Life-Admin",
+            badgeColor: "bg-cyan-500/10 text-cyan-400 border-cyan-500/20",
+            runtime: "Edge Mobile & Cloud Assistant",
+            trigger: "Proactive Contextual Assistance",
+            connectors: "WhatsApp, Instagram, Ray-Ban Glasses, Calendar",
+            description: "Everyday autonomous personal life-admin coordinating schedules, drafting replies, and orchestrating multimodal audio/visual workflows across edge devices.",
+            toolId: "metamuse",
+            url: "https://ai.meta.com"
+        },
+        {
+            name: "xAI Grok Bots",
+            provider: "xAI",
+            badge: "Multi-Bot Team",
+            badgeColor: "bg-purple-500/10 text-purple-400 border-purple-500/20",
+            runtime: "Colossus Supercluster & Live X Telemetry",
+            trigger: "Collaborative Multi-Bot Reasoning",
+            connectors: "X Platform Real-Time Feed & Python Shell",
+            description: "Collaborative multi-bot team architecture powered by Grok 3 with live global X telemetry, deep mathematical reasoning, and specialized sub-bot swarms.",
+            toolId: "grok3",
+            url: "https://grok.com"
+        },
+        {
+            name: "Microsoft Copilot Actions",
+            provider: "Microsoft",
+            badge: "Enterprise Background Bot",
+            badgeColor: "bg-blue-500/10 text-blue-400 border-blue-500/20",
+            runtime: "Azure Enterprise Cloud Sandbox",
+            trigger: "Event-Driven Background Loops",
+            connectors: "Microsoft 365, Dynamics, SAP, Power Automate",
+            description: "Background enterprise bots executing repetitive business workflows, cross-system ERP synchronization, and automated IT ticketing loops without manual intervention.",
+            toolId: "copilotactions",
+            url: "https://copilot.microsoft.com"
+        }
+    ];
+
+    function setAgiAsiLevel(levelNum) {
+        const data = AGI_ASI_LEVELS.find(l => l.level === levelNum) || AGI_ASI_LEVELS[2];
+        
+        for (let i = 1; i <= 5; i++) {
+            const btn = document.getElementById(`btn-agi-lvl-${i}`);
+            if (btn) {
+                if (i === levelNum) {
+                    btn.className = "agi-level-btn p-3 rounded-2xl border text-left transition-all cursor-pointer bg-amber-500/15 border-amber-500/50 shadow-sm relative";
+                } else {
+                    btn.className = "agi-level-btn p-3 rounded-2xl border text-left transition-all cursor-pointer bg-slate-900/60 border-slate-800 hover:border-amber-500/30";
+                }
+            }
+        }
+
+        const detailCard = document.getElementById('agiLevelDetailCard');
+        if (detailCard) {
+            detailCard.innerHTML = `
+                <div class="flex flex-col md:flex-row md:items-center justify-between gap-3 border-b border-slate-800/80 pb-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 rounded-2xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-center shrink-0">
+                            <i data-lucide="${data.icon}" class="w-5 h-5 text-amber-400"></i>
+                        </div>
+                        <div>
+                            <h4 class="text-sm md:text-base font-bold text-white">${data.name}</h4>
+                            <span class="text-[10px] font-mono text-slate-400">${data.summary.slice(0, 95)}...</span>
+                        </div>
+                    </div>
+                    <span class="font-mono text-[9px] font-bold px-2.5 py-1 rounded-full border ${data.badgeColor} shrink-0 w-fit">
+                        ${data.badge}
+                    </span>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs font-light">
+                    <div class="bg-slate-900/40 p-3.5 rounded-xl border border-slate-800/60 space-y-1">
+                        <span class="text-[9px] font-mono font-bold text-amber-400 uppercase tracking-wider block">Core Architecture &amp; Breakthrough</span>
+                        <p class="text-slate-300 leading-relaxed text-[11px]">${data.breakthrough}</p>
+                    </div>
+                    <div class="bg-slate-900/40 p-3.5 rounded-xl border border-slate-800/60 space-y-1">
+                        <span class="text-[9px] font-mono font-bold text-indigo-400 uppercase tracking-wider block">Frontier Models &amp; Deployments</span>
+                        <p class="text-slate-300 leading-relaxed text-[11px] font-mono">${data.models}</p>
+                    </div>
+                    <div class="bg-slate-900/40 p-3.5 rounded-xl border border-slate-800/60 space-y-1">
+                        <span class="text-[9px] font-mono font-bold text-emerald-400 uppercase tracking-wider block">Compute &amp; Training Paradigm</span>
+                        <p class="text-slate-300 leading-relaxed text-[11px]">${data.compute}</p>
+                    </div>
+                    <div class="bg-slate-900/40 p-3.5 rounded-xl border border-slate-800/60 space-y-1">
+                        <span class="text-[9px] font-mono font-bold text-rose-400 uppercase tracking-wider block">Safety &amp; Superalignment Gate</span>
+                        <p class="text-slate-300 leading-relaxed text-[11px]">${data.governance}</p>
+                    </div>
+                </div>
+            `;
+            if (typeof lucide !== 'undefined' && lucide.createIcons) {
+                lucide.createIcons({ root: detailCard });
+            }
+        }
+    }
+
+    function renderPersistentBotsGrid() {
+        const container = document.getElementById('persistentBotsGrid');
+        if (!container) return;
+
+        container.innerHTML = PERSISTENT_BOTS_DATA.map(bot => `
+            <div class="bg-slate-900/50 hover:bg-slate-900/80 border border-slate-800/80 hover:border-amber-500/30 p-4 rounded-2xl transition-all space-y-3 flex flex-col justify-between">
+                <div class="space-y-2">
+                    <div class="flex items-start justify-between gap-2">
+                        <div>
+                            <span class="text-[9px] font-mono text-slate-400 uppercase font-semibold">${bot.provider}</span>
+                            <h5 class="text-xs font-bold text-white flex items-center gap-1.5">
+                                <i data-lucide="bot" class="w-3.5 h-3.5 text-amber-400"></i> ${bot.name}
+                            </h5>
+                        </div>
+                        <span class="text-[8px] font-mono font-bold px-2 py-0.5 rounded-full border ${bot.badgeColor} shrink-0">${bot.badge}</span>
+                    </div>
+                    <p class="text-[11px] text-slate-400 font-light leading-relaxed">${bot.description}</p>
+                    <div class="space-y-1 text-[10px] font-mono text-slate-400 border-t border-slate-800/60 pt-2">
+                        <div class="flex items-center justify-between">
+                            <span class="text-slate-400">Runtime:</span>
+                            <span class="text-slate-300 text-[9px]">${bot.runtime}</span>
+                        </div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-slate-400">Trigger:</span>
+                            <span class="text-amber-400 text-[9px]">${bot.trigger}</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-2 pt-2 border-t border-slate-800/50">
+                    <button onclick="inspectToolInLibrary('${bot.toolId}')" class="flex-1 bg-amber-500/10 hover:bg-amber-500/20 text-amber-400 border border-amber-500/20 text-[10px] font-mono font-bold py-1.5 px-2 rounded-xl transition-all flex items-center justify-center gap-1 cursor-pointer">
+                        <i data-lucide="info" class="w-3 h-3"></i> Inspect Specs
+                    </button>
+                    <a href="${bot.url}" target="_blank" rel="noopener" class="bg-slate-800 hover:bg-slate-700 text-slate-300 text-[10px] font-mono py-1.5 px-2.5 rounded-xl transition-all flex items-center justify-center gap-1 cursor-pointer">
+                        <i data-lucide="external-link" class="w-3 h-3"></i>
+                    </a>
+                </div>
+            </div>
+        `).join('');
+
+        if (typeof lucide !== 'undefined' && lucide.createIcons) {
+            lucide.createIcons({ root: container });
+        }
+    }
+
+    function inspectToolInLibrary(toolId) {
+        switchTab('library');
+        const searchInput = document.getElementById('toolSearch');
+        if (searchInput) {
+            searchInput.value = toolId;
+            executeSearchFilter();
+        }
+    }
+
+    async function syncLiveFrontierIntel(isManual = false) {
+        const icon = document.getElementById('syncFrontierIcon');
+        const ticker = document.getElementById('liveFrontierTicker');
+        const badge = document.getElementById('frontierLastSyncBadge');
+        
+        if (icon) icon.classList.add('animate-spin');
+        if (ticker && isManual) ticker.innerText = "Querying live open public domain repositories (Hacker News & arXiv) for breaking AGI/ASI signals...";
+
+        try {
+            const res = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json?limitToFirst=40&orderBy="$key"', { signal: AbortSignal.timeout(6000) });
+            if (res.ok) {
+                const ids = await res.json();
+                let latestAiTitle = null;
+                let latestStoryUrl = null;
+                
+                for (const id of ids.slice(0, 25)) {
+                    try {
+                        const storyRes = await fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`, { signal: AbortSignal.timeout(2000) });
+                        if (storyRes.ok) {
+                            const story = await storyRes.json();
+                            const title = story.title || '';
+                            if (/(\b(ai|agi|asi|dots|bot|agent|reasoning|deepseek|openai|claude|mariner|superintelligence)\b)/i.test(title)) {
+                                latestAiTitle = title;
+                                latestStoryUrl = story.url || `https://news.ycombinator.com/item?id=${id}`;
+                                break;
+                            }
+                        }
+                    } catch (e) {}
+                }
+
+                if (latestAiTitle && ticker) {
+                    ticker.innerHTML = `<strong>Breaking:</strong> ${latestAiTitle} &bull; <a href="${latestStoryUrl}" target="_blank" rel="noopener" class="text-amber-400 hover:underline">Read verified thread <i data-lucide="external-link" class="w-2.5 h-2.5 inline"></i></a>`;
+                } else if (ticker) {
+                    ticker.innerText = "Active Frontier: OpenAI Dots persistent cloud agents deploying; DeepSeek-R1 test-time compute scaling across open-weights clusters.";
+                }
+            }
+        } catch (err) {
+            if (ticker) {
+                ticker.innerText = "Active Frontier: Persistent autonomous bots (OpenAI Dots, Claude Computer Use) leading Level 3 transition toward AGI.";
+            }
+        } finally {
+            if (icon) icon.classList.remove('animate-spin');
+            if (badge) {
+                const now = new Date();
+                badge.innerText = `Synced: ${now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`;
+            }
+            if (typeof lucide !== 'undefined' && lucide.createIcons) {
+                lucide.createIcons();
+            }
+        }
+    }
+
+    function initAgiAsiFrontierHorizon() {
+        setAgiAsiLevel(3);
+        renderPersistentBotsGrid();
+        syncLiveFrontierIntel(false);
+    }
+
         console.log('🎨 Luxury Aesthetics: Loaded');
     });
 </script>
@@ -6454,6 +6901,7 @@ Answer using this site data first. Format responses with bullet points, bold too
             if (!track) return;
 
             const messages = [
+                `Frontier Horizon: Tracking the AI ➔ AGI ➔ ASI evolution from reasoning engines to persistent autonomous bots (OpenAI Dots, Computer Use, Mariner)`,
                 `<span class="aipulse-heart">♥</span> Crafted with deep gratitude for the brilliant Be10X mentoring team`,
                 `AI updates and resource dispatches synced dynamically from authentic global feeds`,
                 `AI intelligence and research briefs curated directly from open public domain archives (arXiv preprints, open-source repositories & official research releases)`,
