@@ -4,39 +4,39 @@ Resources synced dynamically from authentic open public domain archives (arXiv O
 
 Latest sync items:
 
-### Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction [arXiv Research]
-* Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings.
-  - Authors: Prakhar Kaushik, Soumava Paul et al.
-  - Public Paper: http://arxiv.org/abs/2610.37668v1
-  - Indexed: 2026-10-27 (Public Domain Open Preprint)
+### Elucidating the Design Space of LM Data Attribution [arXiv Research]
+* Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval.
+  - Authors: Steven Yu, Sheng-Yu Wang et al.
+  - Public Paper: http://arxiv.org/abs/2610.40655v1
+  - Indexed: 2026-10-29 (Public Domain Open Preprint)
 
-### ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning [arXiv Research]
-* Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations.
-  - Authors: Chaehyun Kim, Chi-Pin Huang et al.
-  - Public Paper: http://arxiv.org/abs/2610.37666v1
-  - Indexed: 2026-10-27 (Public Domain Open Preprint)
+### Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering [arXiv Research]
+* An estimator can be accurate and stable on typical data, yet sensitive to a few possible records.
+  - Authors: Moshe Shenfeld, Eliad Tsfadia et al.
+  - Public Paper: http://arxiv.org/abs/2610.40654v1
+  - Indexed: 2026-10-29 (Public Domain Open Preprint)
 
-### When Should We Intervene at Test Time? [arXiv Research]
-* Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next.
-  - Authors: Jiahao Zhang, Xinling Wen et al.
-  - Public Paper: http://arxiv.org/abs/2610.37658v1
-  - Indexed: 2026-10-27 (Public Domain Open Preprint)
+### Rethinking Neural Thickets Without Weight Perturbations [arXiv Research]
+* The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover.
+  - Authors: Nicolas Dufour, Elouan Gardès et al.
+  - Public Paper: http://arxiv.org/abs/2610.40649v1
+  - Indexed: 2026-10-29 (Public Domain Open Preprint)
 
-### Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness [arXiv Research]
-* We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates.
-  - Authors: Igor Shilov, Xiaoxue Yang et al.
-  - Public Paper: http://arxiv.org/abs/2610.37657v1
-  - Indexed: 2026-10-27 (Public Domain Open Preprint)
+### Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers [arXiv Research]
+* Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive.
+  - Authors: Jiongfan Yang, Weichen Fan et al.
+  - Public Paper: http://arxiv.org/abs/2610.40647v1
+  - Indexed: 2026-10-29 (Public Domain Open Preprint)
 
-### Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5 [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 344 points).
-  - Contributor: csmantle
-  - Resource Link: https://divagr.com/blog/qwenputer
-  - Discussion Thread: https://news.ycombinator.com/item?id=50282838
+### We're releasing the weights of Mistral Large 4 [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 1291 points).
+  - Contributor: kuberwastaken
+  - Resource Link: https://mistral.ai/news/mistral-large-4-oss/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50289418
 
-### Claude Code regularly sends each background agent’s transcript to its model [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 285 points).
-  - Contributor: NikZaal
-  - Resource Link: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
-  - Discussion Thread: https://news.ycombinator.com/item?id=50284255
+### We ran AI agent swarms in Minecraft and Mindustry [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 231 points).
+  - Contributor: sandslash
+  - Resource Link: https://labs.ycombinator.com/projects/games/index.html
+  - Discussion Thread: https://news.ycombinator.com/item?id=50296486
 
