@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2610.40647v1
   - Indexed: 2026-10-29 (Public Domain Open Preprint)
 
-### We're releasing the weights of Mistral Large 4 [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 1291 points).
-  - Contributor: kuberwastaken
-  - Resource Link: https://mistral.ai/news/mistral-large-4-oss/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50289418
+### Backdoor in Claude Code for VS Code extension on the Cursor Marketplace [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 850 points).
+  - Contributor: _chall
+  - Resource Link: https://phorion.io/blog/offical-claude-code-vsx-compromise/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50300683
 
-### We ran AI agent swarms in Minecraft and Mindustry [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 231 points).
-  - Contributor: sandslash
-  - Resource Link: https://labs.ycombinator.com/projects/games/index.html
-  - Discussion Thread: https://news.ycombinator.com/item?id=50296486
+### Breaking the open web won't stop the bad bots [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 222 points).
+  - Contributor: raybb
+  - Resource Link: https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50263837
 
