@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2610.40647v1
   - Indexed: 2026-10-29 (Public Domain Open Preprint)
 
-### Backdoor in Claude Code for VS Code extension on the Cursor Marketplace [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 850 points).
-  - Contributor: _chall
-  - Resource Link: https://phorion.io/blog/offical-claude-code-vsx-compromise/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50300683
+### Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 158 points).
+  - Contributor: guregodevo
+  - Resource Link: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
+  - Discussion Thread: https://news.ycombinator.com/item?id=50320995
 
-### Breaking the open web won't stop the bad bots [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 222 points).
-  - Contributor: raybb
-  - Resource Link: https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50263837
+### ChatGPT and Codex usage limits merging [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 51 points).
+  - Contributor: Zariel
+  - Resource Link: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits
+  - Discussion Thread: https://news.ycombinator.com/item?id=50320588
 
