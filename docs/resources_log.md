@@ -4,39 +4,39 @@ Resources synced dynamically from authentic open public domain archives (arXiv O
 
 Latest sync items:
 
-### Latent Reasoning in Continuous Space for Unified Multimodal Models [arXiv Research]
-* Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image...
-  - Authors: Byungwoo Jeon, Yoonwoo Jeong et al.
-  - Public Paper: http://arxiv.org/abs/2610.42149v1
-  - Indexed: 2026-10-30 (Public Domain Open Preprint)
+### From PID to Reinforcement Learning in Building HVAC Control: A Control-Architecture Review of Tuning Strategies, Formulations, and Deployment Trade-offs [arXiv Research]
+* This paper reviews control architectures for building heating, ventilation and air-conditioning (HVAC) systems, addressing the tension among energy demand, occupant comfort and equipment operability, and situating pro...
+  - Authors: Erfan Haghighat Damavandi, Davide Papurello et al.
+  - Public Paper: http://arxiv.org/abs/2611.03152v1
+  - Indexed: 2026-11-02 (Public Domain Open Preprint)
 
-### Flide: Accelerating Decision Inference with Exact State Forking [arXiv Research]
-* Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution.
-  - Authors: Bobo Li, Jiajia Song et al.
-  - Public Paper: http://arxiv.org/abs/2610.42148v1
-  - Indexed: 2026-10-30 (Public Domain Open Preprint)
+### FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction [arXiv Research]
+* Battery degradation remains a central challenge in the development and broad application of sustainable energy technologies.
+  - Authors: Hamidreza Eivazi, Eslam Sharaawy et al.
+  - Public Paper: http://arxiv.org/abs/2611.03150v1
+  - Indexed: 2026-11-02 (Public Domain Open Preprint)
 
-### Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention [arXiv Research]
-* Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows.
-  - Authors: Ales Kubicek, Andrea Caciolai et al.
-  - Public Paper: http://arxiv.org/abs/2610.42147v1
-  - Indexed: 2026-10-30 (Public Domain Open Preprint)
+### Controlling Sharpening in LLM Post-Training [arXiv Research]
+* LLM post-training via reinforcement learning has shown consistent improvements in accuracy at the cost of reducing behavioral coverage - a phenomenon known as sharpening that can stall progress on difficult tasks.
+  - Authors: Simon Matrenok, Nicolas Menet et al.
+  - Public Paper: http://arxiv.org/abs/2611.03146v1
+  - Indexed: 2026-11-02 (Public Domain Open Preprint)
 
-### Hierarchical World Models with Implicit Dynamics [arXiv Research]
-* Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning.
-  - Authors: Gaoyue Zhou, Yvonne Wu et al.
-  - Public Paper: http://arxiv.org/abs/2610.42146v1
-  - Indexed: 2026-10-30 (Public Domain Open Preprint)
+### Visual-to-Executable Procedural Reconstruction of Buildings [arXiv Research]
+* Procedural modeling offers compact, editable, and reusable representations for architectural content, but building such models still depends heavily on manually authored grammars.
+  - Authors: Zichong Zhu, Zhihao Liu et al.
+  - Public Paper: http://arxiv.org/abs/2611.03143v1
+  - Indexed: 2026-11-02 (Public Domain Open Preprint)
 
-### The AI cost of JavaScript frameworks [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 336 points).
-  - Contributor: luu
-  - Resource Link: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50323088
+### Astra can read and write weights to improve Qwen [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 2340 points).
+  - Contributor: dbreunig
+  - Resource Link: https://rikiyat.github.io/blog/weight-space-programming/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50341174
 
-### Bones may release proteins that slow aging and extend life span [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 5 points).
-  - Contributor: EA-3167
-  - Resource Link: https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span
-  - Discussion Thread: https://news.ycombinator.com/item?id=50331957
+### Scaling Git at OpenAI [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 154 points).
+  - Contributor: makeramen
+  - Resource Link: https://openai.com/index/scaling-git-at-openai/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50345924
 
