@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2611.08472v1
   - Indexed: 2026-11-05 (Public Domain Open Preprint)
 
-### The AI sell-off compared to well-known stock market crashes [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 37 points).
-  - Contributor: hubraumhugo
-  - Resource Link: https://www.kadoa.com/companies/insights/ai-selloff-perspective
-  - Discussion Thread: https://news.ycombinator.com/item?id=50401029
+### Goodbye Claude, Hello Pi [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 56 points).
+  - Contributor: karagenit
+  - Resource Link: https://caleb.software/posts/claude-to-pi.html
+  - Discussion Thread: https://news.ycombinator.com/item?id=50410107
 
-### AI is dramatically accelerating AI research [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 250 points).
-  - Contributor: yurivish
-  - Resource Link: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
-  - Discussion Thread: https://news.ycombinator.com/item?id=50397994
+### Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 289 points).
+  - Contributor: shmulc
+  - Resource Link: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+  - Discussion Thread: https://news.ycombinator.com/item?id=50407882
 
