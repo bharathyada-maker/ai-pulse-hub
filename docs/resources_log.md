@@ -4,39 +4,39 @@ Resources synced dynamically from authentic open public domain archives (arXiv O
 
 Latest sync items:
 
-### On Agentic Manipulation Policies [arXiv Research]
-* Recent work on robot manipulation has focused on specialist policies trained on demonstrations.
-  - Authors: Chen Chen, Omid Bagherieh et al.
-  - Public Paper: http://arxiv.org/abs/2611.09892v1
-  - Indexed: 2026-11-06 (Public Domain Open Preprint)
+### WanderBench: Can World Models Explore Dynamic Worlds from Video? [arXiv Research]
+* Video world models conditioned on an input video make it possible to explore real, recorded dynamic scenes, enabling re-shooting of footage, free-viewpoint replay, and real-to-sim environments for embodied agents.
+  - Authors: Yuhang Chen, Jiheng Li et al.
+  - Public Paper: http://arxiv.org/abs/2611.12557v1
+  - Indexed: 2026-11-09 (Public Domain Open Preprint)
 
-### CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse [arXiv Research]
-* Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch.
-  - Authors: Peter Belcak, Greg Heinrich et al.
-  - Public Paper: http://arxiv.org/abs/2611.09891v1
-  - Indexed: 2026-11-06 (Public Domain Open Preprint)
+### SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery [arXiv Research]
+* We propose SciMARS, a framework for recursive task-local adaptation of multi-agent harnesses in closed-loop scientific discovery.
+  - Authors: Weimin Wu, Han Liu
+  - Public Paper: http://arxiv.org/abs/2611.12552v1
+  - Indexed: 2026-11-09 (Public Domain Open Preprint)
 
-### On the (non-)closedness of the set of ReLU networks [arXiv Research]
-* We prove that the set $\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\in\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\subset\mathbb R^d$.
-  - Authors: Eloi Martinet, Leon Bungert
-  - Public Paper: http://arxiv.org/abs/2611.09887v1
-  - Indexed: 2026-11-06 (Public Domain Open Preprint)
+### A Strict Upper Bound for Three-Point Weighted Selection in Planar Vector-Valued Regression [arXiv Research]
+* We prove $F_{\mathrm{weighted}}(2,2,3)<11/6$ for minimum-Frobenius-norm least-squares regression with two input and two output coordinates, improving the upper bound $15/8$.
+  - Authors: Sergey Volkov
+  - Public Paper: http://arxiv.org/abs/2611.12550v1
+  - Indexed: 2026-11-09 (Public Domain Open Preprint)
 
-### FlowMoP: Stochastic Multi-Person Motion Prediction [arXiv Research]
-* Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context.
-  - Authors: Aadya Agrawal, Ho Kei Cheng et al.
-  - Public Paper: http://arxiv.org/abs/2611.09882v1
-  - Indexed: 2026-11-06 (Public Domain Open Preprint)
+### Learning inexact alternating minimization for convex problems with quadratic coupling [arXiv Research]
+* Alternating minimization is a standard tool for optimization problems with two coupled variable blocks.
+  - Authors: Paul Häusner, Jevgenija Rudzusika et al.
+  - Public Paper: http://arxiv.org/abs/2611.12544v1
+  - Indexed: 2026-11-09 (Public Domain Open Preprint)
 
-### I'm not convinced the AI bubble exists [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 130 points).
-  - Contributor: matteoraso
-  - Resource Link: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists
-  - Discussion Thread: https://news.ycombinator.com/item?id=50418975
+### Claude Fable 5.2 and Mythos 5.2 [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 462 points).
+  - Contributor: lairv
+  - Resource Link: https://www.anthropic.com/claude-fable-and-mythos-5-2
+  - Discussion Thread: https://news.ycombinator.com/item?id=50429068
 
-### Ask HN: How do you manage your AI agents' context across clients and projects? [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 33 points).
-  - Contributor: Michel_Aventin
-  - Resource Link: https://news.ycombinator.com/item?id=50403153
-  - Discussion Thread: https://news.ycombinator.com/item?id=50403153
+### CoreWeave bond yield tops 16% as AI credit stress rises [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 104 points).
+  - Contributor: lxm
+  - Resource Link: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html
+  - Discussion Thread: https://news.ycombinator.com/item?id=50435660
 
