@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2611.14515v1
   - Indexed: 2026-11-10 (Public Domain Open Preprint)
 
-### Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 322 points).
-  - Contributor: paulirish
-  - Resource Link: https://github.com/GoogleChrome/modern-web-guidance
-  - Discussion Thread: https://news.ycombinator.com/item?id=50443812
+### United Airlines bans AI agents from booking flights on behalf of travelers [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 508 points).
+  - Contributor: herpderperator
+  - Resource Link: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50458900
 
-### LLMs Play Zachtronics' TIS-100 [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 34 points).
-  - Contributor: fairestvalue
-  - Resource Link: https://tis-100.wincon.dev/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50448340
+### Emacs in the Age of Magic [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 198 points).
+  - Contributor: ggcr
+  - Resource Link: https://commandlinesystems.com/magic.txt
+  - Discussion Thread: https://news.ycombinator.com/item?id=50458208
 
