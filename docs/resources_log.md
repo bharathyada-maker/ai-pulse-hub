@@ -4,39 +4,39 @@ Resources synced dynamically from authentic open public domain archives (arXiv O
 
 Latest sync items:
 
-### Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training [arXiv Research]
-* Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task.
-  - Authors: Emre Kutlusan, Yongmin Li
-  - Public Paper: http://arxiv.org/abs/2611.14519v1
-  - Indexed: 2026-11-10 (Public Domain Open Preprint)
+### Unbundling Multimodal Vision Encoding [arXiv Research]
+* How multimodal language models should encode visual input remains up for debate.
+  - Authors: Ellis Brown, Chris Hoang et al.
+  - Public Paper: http://arxiv.org/abs/2611.17334v1
+  - Indexed: 2026-11-12 (Public Domain Open Preprint)
 
-### Toward Foundation Detection Models via Example-Based Grounding in EM-DETR [arXiv Research]
-* DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets.
-  - Authors: Sheethal Bhat, Bogdan Georgescu et al.
-  - Public Paper: http://arxiv.org/abs/2611.14518v1
-  - Indexed: 2026-11-10 (Public Domain Open Preprint)
+### ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research [arXiv Research]
+* Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia.
+  - Authors: Jie Wang, Tong Zhu et al.
+  - Public Paper: http://arxiv.org/abs/2611.17332v1
+  - Indexed: 2026-11-12 (Public Domain Open Preprint)
 
-### TorchCurves: Differentiable Parametric Curves [arXiv Research]
-* We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives.
-  - Authors: Alex Shtoff
-  - Public Paper: http://arxiv.org/abs/2611.14516v1
-  - Indexed: 2026-11-10 (Public Domain Open Preprint)
+### Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation [arXiv Research]
+* Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information.
+  - Authors: Zeynep Yıldız, Satchit Chatterji et al.
+  - Public Paper: http://arxiv.org/abs/2611.17329v1
+  - Indexed: 2026-11-12 (Public Domain Open Preprint)
 
-### AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models [arXiv Research]
-* Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused.
-  - Authors: Zijian Zhang, Rizhen Hu et al.
-  - Public Paper: http://arxiv.org/abs/2611.14515v1
-  - Indexed: 2026-11-10 (Public Domain Open Preprint)
+### AgentSSL: Can MLE Agents Leverage Unlabeled Data? [arXiv Research]
+* Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering.
+  - Authors: Ethan Lin, Akanksha Sarkar et al.
+  - Public Paper: http://arxiv.org/abs/2611.17323v1
+  - Indexed: 2026-11-12 (Public Domain Open Preprint)
 
-### United Airlines bans AI agents from booking flights on behalf of travelers [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 508 points).
-  - Contributor: herpderperator
-  - Resource Link: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50458900
+### Edge0-145B: Frontier AI Capabilities on Your Own Computer [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 180 points).
+  - Contributor: sroussey
+  - Resource Link: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+  - Discussion Thread: https://news.ycombinator.com/item?id=50475713
 
-### Emacs in the Age of Magic [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 198 points).
-  - Contributor: ggcr
-  - Resource Link: https://commandlinesystems.com/magic.txt
-  - Discussion Thread: https://news.ycombinator.com/item?id=50458208
+### Brave Search API now accepts agentic payments via the x402 protocol [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 35 points).
+  - Contributor: sjdh76
+  - Resource Link: https://brave.com/blog/search-api-agentic-payments/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50477649
 
