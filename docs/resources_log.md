@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2611.17323v1
   - Indexed: 2026-11-12 (Public Domain Open Preprint)
 
-### Edge0-145B: Frontier AI Capabilities on Your Own Computer [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 180 points).
-  - Contributor: sroussey
-  - Resource Link: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
-  - Discussion Thread: https://news.ycombinator.com/item?id=50475713
+### Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 247 points).
+  - Contributor: speckx
+  - Resource Link: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
+  - Discussion Thread: https://news.ycombinator.com/item?id=50493251
 
-### Brave Search API now accepts agentic payments via the x402 protocol [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 35 points).
-  - Contributor: sjdh76
-  - Resource Link: https://brave.com/blog/search-api-agentic-payments/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50477649
+### Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 74 points).
+  - Contributor: Retro_Dev
+  - Resource Link: https://unsloth.ai/docs/models/qwen3.8
+  - Discussion Thread: https://news.ycombinator.com/item?id=50491980
 
