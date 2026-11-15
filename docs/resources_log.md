@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2611.17323v1
   - Indexed: 2026-11-12 (Public Domain Open Preprint)
 
-### Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 247 points).
-  - Contributor: speckx
-  - Resource Link: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
-  - Discussion Thread: https://news.ycombinator.com/item?id=50493251
+### How did Woz write the Apple 1 BASIC before building the computer? [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 166 points).
+  - Contributor: Skyfall106
+  - Resource Link: https://retrocomputing.stackexchange.com/questions/17957
+  - Discussion Thread: https://news.ycombinator.com/item?id=50501594
 
-### Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 74 points).
-  - Contributor: Retro_Dev
-  - Resource Link: https://unsloth.ai/docs/models/qwen3.8
-  - Discussion Thread: https://news.ycombinator.com/item?id=50491980
+### Show HN: DeepSeek V3 in ~200 lines of pure Jax [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 213 points).
+  - Contributor: VaibhaavTiwari
+  - Resource Link: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax
+  - Discussion Thread: https://news.ycombinator.com/item?id=50497589
 
