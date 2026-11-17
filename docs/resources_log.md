@@ -4,15 +4,15 @@ Resources synced dynamically from authentic open public domain archives (arXiv O
 
 Latest sync items:
 
-### Qwen4-Max [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 308 points).
-  - Contributor: ilreb
-  - Resource Link: https://qwen.ai/blog?id=qwen4-max
-  - Discussion Thread: https://news.ycombinator.com/item?id=50513215
+### Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 517 points).
+  - Contributor: cwaffles
+  - Resource Link: https://xusheng.dev/posts/windows-coding-agent-telemetry/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50524736
 
-### Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video] [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 394 points).
-  - Contributor: envoked
-  - Resource Link: https://www.youtube.com/watch?v=WPj3aQ-xxpI
-  - Discussion Thread: https://news.ycombinator.com/item?id=50463399
+### Running coding agents without handing them my credentials [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 99 points).
+  - Contributor: antoniomika
+  - Resource Link: https://blog.antonio.cx/running-agents-with-lend
+  - Discussion Thread: https://news.ycombinator.com/item?id=50526152
 
