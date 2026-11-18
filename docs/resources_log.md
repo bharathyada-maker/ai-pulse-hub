@@ -4,15 +4,39 @@ Resources synced dynamically from authentic open public domain archives (arXiv O
 
 Latest sync items:
 
-### Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 517 points).
-  - Contributor: cwaffles
-  - Resource Link: https://xusheng.dev/posts/windows-coding-agent-telemetry/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50524736
+### Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching [arXiv Research]
+* Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging.
+  - Authors: Giannis Daras, Marios Papachristou et al.
+  - Public Paper: http://arxiv.org/abs/2611.23229v1
+  - Indexed: 2026-11-17 (Public Domain Open Preprint)
 
-### Running coding agents without handing them my credentials [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 99 points).
-  - Contributor: antoniomika
-  - Resource Link: https://blog.antonio.cx/running-agents-with-lend
-  - Discussion Thread: https://news.ycombinator.com/item?id=50526152
+### Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models [arXiv Research]
+* Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes).
+  - Authors: Rui Ning, Om Chabra et al.
+  - Public Paper: http://arxiv.org/abs/2611.23228v1
+  - Indexed: 2026-11-17 (Public Domain Open Preprint)
+
+### StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics [arXiv Research]
+* We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics.
+  - Authors: Xingyang Yu
+  - Public Paper: http://arxiv.org/abs/2611.23225v1
+  - Indexed: 2026-11-17 (Public Domain Open Preprint)
+
+### An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization [arXiv Research]
+* In this paper, we study a class of constrained convex finite-sum optimization problems.
+  - Authors: Zhaosong Lu, Yifeng Xiao
+  - Public Paper: http://arxiv.org/abs/2611.23221v1
+  - Indexed: 2026-11-17 (Public Domain Open Preprint)
+
+### GPT‑6.2 Astra and Sol [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 1213 points).
+  - Contributor: jasondavies
+  - Resource Link: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50535230
+
+### Google's AI answers reducing search traffic by 40% [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 293 points).
+  - Contributor: slashdev
+  - Resource Link: https://revscope.co/blog/search-seo-geo-2026/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50540178
 
