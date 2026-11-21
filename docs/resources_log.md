@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2611.26617v1
   - Indexed: 2026-11-19 (Public Domain Open Preprint)
 
-### Bit Shifting in Basic [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 18 points).
-  - Contributor: efren6
-  - Resource Link: https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50521512
+### ClawDOS – An AI coding agent for DOS [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 10 points).
+  - Contributor: Ricapar
+  - Resource Link: http://ricapar.net/ClawDOS/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50586292
 
-### Claude solves two open problems in the physics of black holes [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 458 points).
-  - Contributor: cybermango
-  - Resource Link: https://www.anthropic.com/research/claude-black-hole-physics
-  - Discussion Thread: https://news.ycombinator.com/item?id=50563148
+### Language Models Can Rewrite Their Own Weights [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 384 points).
+  - Contributor: lwhsiao
+  - Resource Link: https://arxiv.org/abs/2611.21885
+  - Discussion Thread: https://news.ycombinator.com/item?id=50577265
 
