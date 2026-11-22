@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2611.26617v1
   - Indexed: 2026-11-19 (Public Domain Open Preprint)
 
-### ClawDOS – An AI coding agent for DOS [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 10 points).
-  - Contributor: Ricapar
-  - Resource Link: http://ricapar.net/ClawDOS/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50586292
+### Pandex – Official European Law for AI Agents, over MCP [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 60 points).
+  - Contributor: vasie
+  - Resource Link: https://www.pandex.io
+  - Discussion Thread: https://news.ycombinator.com/item?id=50593481
 
-### Language Models Can Rewrite Their Own Weights [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 384 points).
-  - Contributor: lwhsiao
-  - Resource Link: https://arxiv.org/abs/2611.21885
-  - Discussion Thread: https://news.ycombinator.com/item?id=50577265
+### LLMs can read and write executables byte by byte from a hex dump [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 225 points).
+  - Contributor: fortran77
+  - Resource Link: https://sgiannopoulos.github.io/blog/machine-code-programming/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50546587
 
