@@ -4,39 +4,39 @@ Resources synced dynamically from authentic open public domain archives (arXiv O
 
 Latest sync items:
 
-### RL Post-Training in Diffusion Transformers Is Activation Steering [arXiv Research]
-* Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers.
-  - Authors: Tuna Han Salih Meral, Kaan Oktay et al.
-  - Public Paper: http://arxiv.org/abs/2611.26627v1
-  - Indexed: 2026-11-19 (Public Domain Open Preprint)
+### Optimal Linear Regression Without a Variance [arXiv Research]
+* We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\in(1,2)$, and the covariates may only have finit...
+  - Authors: Artin Tajdini, Jasper C. H. Lee et al.
+  - Public Paper: http://arxiv.org/abs/2611.27983v1
+  - Indexed: 2026-11-20 (Public Domain Open Preprint)
 
-### PlayCraft: Designing Engaging Games from Agent Play Experience [arXiv Research]
-* Recent AI agents can generate playable games, but these games are not necessarily engaging.
-  - Authors: Weihao Cheng
-  - Public Paper: http://arxiv.org/abs/2611.26624v1
-  - Indexed: 2026-11-19 (Public Domain Open Preprint)
+### A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning [arXiv Research]
+* This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features.
+  - Authors: Hari Sitaula, Joseph Opitz
+  - Public Paper: http://arxiv.org/abs/2611.27978v1
+  - Indexed: 2026-11-20 (Public Domain Open Preprint)
 
-### TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming [arXiv Research]
-* Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency.
-  - Authors: Jinbin Luo, Xiaozhe Yao et al.
-  - Public Paper: http://arxiv.org/abs/2611.26619v1
-  - Indexed: 2026-11-19 (Public Domain Open Preprint)
+### MemOnce: A Scalable Memory Architecture for Large Language Models [arXiv Research]
+* Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures.
+  - Authors: Chang Nie, Chaoyou Fu et al.
+  - Public Paper: http://arxiv.org/abs/2611.27973v1
+  - Indexed: 2026-11-20 (Public Domain Open Preprint)
 
-### One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning [arXiv Research]
-* Videos reveal how the world changes, but rarely the actions that cause those changes.
-  - Authors: Yuxin Jiang, Wenqiang Sun et al.
-  - Public Paper: http://arxiv.org/abs/2611.26617v1
-  - Indexed: 2026-11-19 (Public Domain Open Preprint)
+### On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals [arXiv Research]
+* Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control.
+  - Authors: Javier Sanchis, Álvaro Navarro et al.
+  - Public Paper: http://arxiv.org/abs/2611.27970v1
+  - Indexed: 2026-11-20 (Public Domain Open Preprint)
 
-### Pandex – Official European Law for AI Agents, over MCP [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 60 points).
-  - Contributor: vasie
-  - Resource Link: https://www.pandex.io
-  - Discussion Thread: https://news.ycombinator.com/item?id=50593481
+### A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 418 points).
+  - Contributor: Retell15
+  - Resource Link: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+  - Discussion Thread: https://news.ycombinator.com/item?id=50603845
 
-### LLMs can read and write executables byte by byte from a hex dump [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 225 points).
-  - Contributor: fortran77
-  - Resource Link: https://sgiannopoulos.github.io/blog/machine-code-programming/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50546587
+### Show HN: I built a game where you are an LLM's subagent [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 309 points).
+  - Contributor: ivantgam
+  - Resource Link: https://github.com/gulivan/worker755
+  - Discussion Thread: https://news.ycombinator.com/item?id=50599762
 
