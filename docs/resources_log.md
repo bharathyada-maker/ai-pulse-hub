@@ -4,39 +4,39 @@ Resources synced dynamically from authentic open public domain archives (arXiv O
 
 Latest sync items:
 
-### Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action [arXiv Research]
-* Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs.
-  - Authors: Seongchan Kim, Soowon Son et al.
-  - Public Paper: http://arxiv.org/abs/2611.31240v1
-  - Indexed: 2026-11-23 (Public Domain Open Preprint)
+### OmniAct: One Policy, One Million Embodiments [arXiv Research]
+* A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities.
+  - Authors: Xiang Fan, Yuheng Wang et al.
+  - Public Paper: http://arxiv.org/abs/2611.33158v1
+  - Indexed: 2026-11-24 (Public Domain Open Preprint)
 
-### Let Vision-Language Models Generate Images through Their Representations [arXiv Research]
-* Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging.
-  - Authors: JB Kim, Byungwoo Jeon et al.
-  - Public Paper: http://arxiv.org/abs/2611.31237v1
-  - Indexed: 2026-11-23 (Public Domain Open Preprint)
+### DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning [arXiv Research]
+* We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video.
+  - Authors: Binfei Ji, Zhiwen Cao et al.
+  - Public Paper: http://arxiv.org/abs/2611.33153v1
+  - Indexed: 2026-11-24 (Public Domain Open Preprint)
 
-### TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming [arXiv Research]
-* CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap.
-  - Authors: Hani Alomari, Md Atabuzzaman et al.
-  - Public Paper: http://arxiv.org/abs/2611.31233v1
-  - Indexed: 2026-11-23 (Public Domain Open Preprint)
+### BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles [arXiv Research]
+* The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets.
+  - Authors: Yuwei Yang, Xiaoxiao Sun et al.
+  - Public Paper: http://arxiv.org/abs/2611.33151v1
+  - Indexed: 2026-11-24 (Public Domain Open Preprint)
 
-### Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ [arXiv Research]
-* Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning.
-  - Authors: Daniel Theron
-  - Public Paper: http://arxiv.org/abs/2611.31228v1
-  - Indexed: 2026-11-23 (Public Domain Open Preprint)
+### CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies [arXiv Research]
+* Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions.
+  - Authors: Dawid J. Kopiczko, Tijmen Blankevoort et al.
+  - Public Paper: http://arxiv.org/abs/2611.33148v1
+  - Indexed: 2026-11-24 (Public Domain Open Preprint)
 
-### Ride the SQL curve from basics to mastery [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 30 points).
-  - Contributor: michaelsbradley
-  - Resource Link: https://sqlride.com/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50593006
+### PenGPT: A Generative Transformer for Handwriting and Sketches [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 207 points).
+  - Contributor: smusamashah
+  - Resource Link: https://greydanus.github.io/2026/11/12/pengpt/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50637056
 
-### Becoming a Magician [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 8 points).
-  - Contributor: robertvc
-  - Resource Link: https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/
-  - Discussion Thread: https://news.ycombinator.com/item?id=50606611
+### GPT-6 models demonstrate intrinsic protein-design capabilities [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 249 points).
+  - Contributor: acossta
+  - Resource Link: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50634658
 
