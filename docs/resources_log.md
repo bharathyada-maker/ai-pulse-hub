@@ -28,15 +28,15 @@ Latest sync items:
   - Public Paper: http://arxiv.org/abs/2611.34934v1
   - Indexed: 2026-11-25 (Public Domain Open Preprint)
 
-### The New York Times warns photographers not to update Photoshop over AI features [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 336 points).
-  - Contributor: rmason
-  - Resource Link: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
-  - Discussion Thread: https://news.ycombinator.com/item?id=50647673
+### The group chat where your AI talks behind your back [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 74 points).
+  - Contributor: utiiiD
+  - Resource Link: https://construct22.com/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50663595
 
-### GPT-6.2 Astra is the first model to beat Googlers' code golf records [Open Tech]
-* Public domain technical development, open repository, or community discussion on Hacker News (Score: 356 points).
-  - Contributor: bjin
-  - Resource Link: https://bjin.github.io/go-codegolf-benchmark/#leaderboard
-  - Discussion Thread: https://news.ycombinator.com/item?id=50601280
+### "What's Claude's Fursona?" and Other Questions [Open Tech]
+* Public domain technical development, open repository, or community discussion on Hacker News (Score: 75 points).
+  - Contributor: Mond_
+  - Resource Link: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
+  - Discussion Thread: https://news.ycombinator.com/item?id=50662933
 
